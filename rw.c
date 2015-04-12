@@ -78,9 +78,9 @@ int main(int argc, char** argv) {
     sem_init(&bufferMutex, 0, 1);
 
     //create writer thread
-//    pthread_t writerThread;
-//    int *temp2 = (int *)malloc(sizeof(int *));
-//    pthread_create(&writerThread, 0, writerCode, (void *) temp2);
+    pthread_t writerThread;
+    int *temp2 = (int *)malloc(sizeof(int *));
+    pthread_create(&writerThread, 0, writerCode, (void *) temp2);
 
     //create reader threads
     pthread_t reads[NUM_OF_READERS];
@@ -91,9 +91,9 @@ int main(int argc, char** argv) {
     }
 
     //create writer thread
-    pthread_t writerThread;
-    int *temp2 = (int *)malloc(sizeof(int *));
-    pthread_create(&writerThread, 0, writerCode, (void *) temp2);
+//    pthread_t writerThread;
+//    int *temp2 = (int *)malloc(sizeof(int *));
+//    pthread_create(&writerThread, 0, writerCode, (void *) temp2);
 
     //terminate writer thread
     pthread_join(writerThread, 0);
