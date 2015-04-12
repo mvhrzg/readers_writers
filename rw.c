@@ -35,7 +35,7 @@ void* read(void* reader){
     int r = *((int *) reader);
     printf("reader %d created.\n", r);
     for (i = 0; i < NUM_READS; i++){
-	up(&readerCountMutex);
+//	down(&readerCountMutex);
 	readerCount = readerCount + 1;
 
 	if(readerCount == 1){
@@ -53,7 +53,7 @@ void* read(void* reader){
 	    up(&bufferMutex);
 	}
 
-	down(&readerCountMutex);
+//	up(&readerCountMutex);
     }//for
 
     pthread_exit(0);
