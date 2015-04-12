@@ -35,7 +35,7 @@ void* read(void* reader){
     int r = *((int *) reader);
     printf("reader %d created.\n", r);
     for (i = 0; i < NUM_READS; i++){
-//	down(&readerCountMutex);
+	down(&readerCountMutex);
 	readerCount = readerCount + 1;
 
 	if(readerCount == 1){
@@ -53,7 +53,7 @@ void* read(void* reader){
 	    up(&bufferMutex);
 	}
 
-//	up(&readerCountMutex);
+	up(&readerCountMutex);
     }//for
 
     pthread_exit(0);
@@ -73,6 +73,8 @@ void* write(void* writer){
 
 int main(int argc, char** argv) {
     int i;
+    readerCount = 0;
+    sharedBuffer = 0;
     sem_init(&readerCountMutex, 0, 0);
     sem_init(&bufferMutex, 0, 0);
 
