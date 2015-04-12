@@ -1,0 +1,2206 @@
+reader on iteration 0. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 1. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 2. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 3. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 4. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 5. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 6. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 7. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 8. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 9. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 10. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 11. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 12. sharedBuffer is 0.
+reader on iteration 0. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 1. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 2. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 3. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 4. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 5. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 6. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 7. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 8. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 9. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 10. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 11. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 3.
+reader on iteration 12. sharedBuffer is 0.
+reader on iteration 13. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 2.
+reader on iteration 14. sharedBuffer is 0.
+reader on iteration 0. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 15. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 1.
+reader on iteration 1. sharedBuffer is 0.
+reader on iteration 13. sharedBuffer is 0.
+reader on iteration 0. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 1. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 2. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 3. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 4. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 5. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 6. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 2.
+reader on iteration 16. sharedBuffer is 0.
+reader on iteration 14. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 2.
+reader on iteration 2. sharedBuffer is 0.
+reader on iteration 15. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 17. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 3. sharedBuffer is 0.
+reader on iteration 18. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 1.
+reader on iteration 4. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 2.
+reader on iteration 16. sharedBuffer is 0.
+reader on iteration 5. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 2.
+reader on iteration 17. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 6. sharedBuffer is 0.
+reader on iteration 19. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 2.
+reader on iteration 20. sharedBuffer is 0.
+reader on iteration 18. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 3.
+readerCount is 2.
+reader on iteration 7. sharedBuffer is 0.
+reader on iteration 19. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 21. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 8. sharedBuffer is 0.
+reader on iteration 22. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 3.
+reader on iteration 9. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 10. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 11. sharedBuffer is 0.
+reader on iteration 20. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 2.
+readerCount is 2.
+reader on iteration 23. sharedBuffer is 0.
+reader on iteration 21. sharedBuffer is 0.
+reader on iteration 7. sharedBuffer is 0.
+readerCount is 5.
+readerCount is 3.
+reader on iteration 8. sharedBuffer is 0.
+reader on iteration 12. sharedBuffer is 0.
+reader on iteration 24. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 25. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 26. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 27. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 28. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 29. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 30. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 31. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 32. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 33. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 34. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 35. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 36. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 37. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 38. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 9. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 10. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 11. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 12. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 13. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 14. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 15. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 16. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 17. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 3.
+reader on iteration 13. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 14. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 15. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 16. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 17. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 18. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 19. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 20. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 21. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 22. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 23. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 24. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 25. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 26. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 27. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 28. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 29. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 30. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 31. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 32. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 33. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 34. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 35. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 36. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 37. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 38. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 39. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 40. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 41. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 42. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 43. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 44. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 45. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 46. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 47. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 48. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 49. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 50. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 51. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 52. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 53. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 54. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 55. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 56. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 57. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 58. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 59. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 60. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 2.
+reader on iteration 39. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 40. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 41. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 42. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 43. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 44. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 45. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 46. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 47. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 48. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 49. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 50. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 51. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 52. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 53. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 54. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 55. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 56. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 57. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 58. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 59. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 60. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 61. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 62. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 63. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 64. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 65. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 66. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 67. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 68. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 69. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 70. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 71. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 18. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 19. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 20. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 21. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 22. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 23. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 24. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 25. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 26. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 27. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 28. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 29. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 30. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 31. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 32. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 33. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 34. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 35. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 36. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 37. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 38. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 39. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 40. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 41. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 42. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 43. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 44. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 45. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 46. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 47. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 48. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 49. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 50. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 51. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 52. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 53. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 54. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 55. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 56. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 57. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 58. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 59. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 60. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 61. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 62. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 63. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 64. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 65. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 66. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 67. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 68. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 69. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 61. sharedBuffer is 0.
+reader on iteration 70. sharedBuffer is 0.
+readerCount is 4.
+readerCount is 3.
+reader on iteration 72. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 73. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 62. sharedBuffer is 0.
+reader on iteration 74. sharedBuffer is 0.
+reader on iteration 71. sharedBuffer is 0.
+readerCount is 4.
+readerCount is 4.
+reader on iteration 22. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 23. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 3.
+reader on iteration 24. sharedBuffer is 0.
+reader on iteration 75. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 63. sharedBuffer is 0.
+reader on iteration 72. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 2.
+readerCount is 1.
+reader on iteration 25. sharedBuffer is 0.
+readerCount is 2.
+reader on iteration 64. sharedBuffer is 0.
+readerCount is 5.
+reader on iteration 73. sharedBuffer is 0.
+readerCount is 4.
+reader on iteration 26. sharedBuffer is 0.
+reader on iteration 76. sharedBuffer is 0.
+reader on iteration 65. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 3.
+readerCount is 1.
+reader on iteration 74. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 3.
+reader on iteration 77. sharedBuffer is 0.
+reader on iteration 27. sharedBuffer is 0.
+reader on iteration 75. sharedBuffer is 0.
+reader on iteration 66. sharedBuffer is 0.
+readerCount is 2.
+readerCount is 0.
+readerCount is 3.
+reader on iteration 28. sharedBuffer is 0.
+readerCount is 0.
+reader on iteration 29. sharedBuffer is 0.
+readerCount is 1.
+readerCount is 2.
+reader on iteration 76. sharedBuffer is 0.
+reader on iteration 78. sharedBuffer is 0.
+readerCount is 3.
+reader on iteration 67. sharedBuffer is 0.
+reader on iteration 77. sharedBuffer is 0.
+readerCount is 3.
+readerCount is 1.
+reader on iteration 30. sharedBuffer is 0.
+reader on iteration 78. sharedBuffer is 0.
+reader on iteration 79. sharedBuffer is 0.
+readerCount is 0.
+reader on iteration 0. sharedBuffer is 1.
+writer on iteration 0. sharedBuffer is 1.
+readerCount is 2.
+reader on iteration 79. sharedBuffer is 1.
+readerCount is -1.
+writer on iteration 1. sharedBuffer is 2.
+readerCount is -1.
+reader on iteration 80. sharedBuffer is 2.
+readerCount is 1.
+writer on iteration 2. sharedBuffer is 3.
+writer on iteration 3. sharedBuffer is 4.
+reader on iteration 1. sharedBuffer is 4.
+writer on iteration 4. sharedBuffer is 5.
+reader on iteration 31. sharedBuffer is 4.
+readerCount is 0.
+reader on iteration 2. sharedBuffer is 5.
+readerCount is 0.
+reader on iteration 3. sharedBuffer is 5.
+writer on iteration 5. sharedBuffer is 6.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 68. sharedBuffer is 2.
+reader on iteration 81. sharedBuffer is 7.
+readerCount is -1.
+reader on iteration 82. sharedBuffer is 7.
+readerCount is -1.
+reader on iteration 83. sharedBuffer is 7.
+readerCount is -1.
+reader on iteration 84. sharedBuffer is 7.
+readerCount is -1.
+reader on iteration 85. sharedBuffer is 7.
+readerCount is -1.
+readerCount is -1.
+reader on iteration 32. sharedBuffer is 7.
+reader on iteration 4. sharedBuffer is 7.
+readerCount is 0.
+reader on iteration 5. sharedBuffer is 7.
+readerCount is 0.
+reader on iteration 6. sharedBuffer is 7.
+readerCount is 0.
+reader on iteration 7. sharedBuffer is 7.
+readerCount is 0.
+readerCount is -1.
+readerCount is -1.
+reader on iteration 8. sharedBuffer is 7.
+readerCount is 0.
+reader on iteration 9. sharedBuffer is 7.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 80. sharedBuffer is 7.
+reader on iteration 33. sharedBuffer is 7.
+reader on iteration 10. sharedBuffer is 7.
+writer on iteration 6. sharedBuffer is 7.
+reader on iteration 69. sharedBuffer is 7.
+reader on iteration 86. sharedBuffer is 7.
+readerCount is 0.
+writer on iteration 7. sharedBuffer is 8.
+readerCount is 2.
+readerCount is -2.
+readerCount is -1.
+reader on iteration 11. sharedBuffer is 8.
+reader on iteration 70. sharedBuffer is 9.
+reader on iteration 87. sharedBuffer is 9.
+readerCount is 0.
+reader on iteration 81. sharedBuffer is 8.
+reader on iteration 71. sharedBuffer is 9.
+writer on iteration 8. sharedBuffer is 9.
+readerCount is -1.
+readerCount is 1.
+writer on iteration 9. sharedBuffer is 10.
+readerCount is -1.
+reader on iteration 12. sharedBuffer is 10.
+readerCount is -1.
+reader on iteration 13. sharedBuffer is 10.
+readerCount is -1.
+readerCount is 1.
+readerCount is -2.
+reader on iteration 88. sharedBuffer is 11.
+readerCount is -1.
+reader on iteration 89. sharedBuffer is 11.
+readerCount is -1.
+reader on iteration 14. sharedBuffer is 11.
+reader on iteration 34. sharedBuffer is 11.
+writer on iteration 10. sharedBuffer is 11.
+readerCount is 2.
+reader on iteration 82. sharedBuffer is 10.
+readerCount is 1.
+writer on iteration 11. sharedBuffer is 12.
+reader on iteration 90. sharedBuffer is 11.
+reader on iteration 15. sharedBuffer is 12.
+reader on iteration 35. sharedBuffer is 12.
+readerCount is 1.
+readerCount is 1.
+readerCount is -1.
+reader on iteration 36. sharedBuffer is 13.
+readerCount is -1.
+reader on iteration 37. sharedBuffer is 13.
+writer on iteration 12. sharedBuffer is 13.
+reader on iteration 83. sharedBuffer is 13.
+readerCount is 1.
+reader on iteration 91. sharedBuffer is 13.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 72. sharedBuffer is 11.
+reader on iteration 38. sharedBuffer is 14.
+writer on iteration 13. sharedBuffer is 14.
+reader on iteration 84. sharedBuffer is 14.
+readerCount is 0.
+reader on iteration 39. sharedBuffer is 14.
+readerCount is 0.
+reader on iteration 40. sharedBuffer is 14.
+readerCount is 0.
+readerCount is 1.
+readerCount is -1.
+reader on iteration 85. sharedBuffer is 15.
+readerCount is -1.
+writer on iteration 14. sharedBuffer is 15.
+readerCount is 0.
+reader on iteration 41. sharedBuffer is 15.
+writer on iteration 15. sharedBuffer is 16.
+reader on iteration 16. sharedBuffer is 14.
+readerCount is 2.
+reader on iteration 42. sharedBuffer is 16.
+readerCount is 2.
+reader on iteration 43. sharedBuffer is 16.
+reader on iteration 86. sharedBuffer is 15.
+reader on iteration 92. sharedBuffer is 16.
+readerCount is 1.
+reader on iteration 73. sharedBuffer is 15.
+readerCount is 0.
+reader on iteration 44. sharedBuffer is 17.
+readerCount is -1.
+writer on iteration 16. sharedBuffer is 17.
+readerCount is -1.
+reader on iteration 45. sharedBuffer is 17.
+readerCount is -1.
+readerCount is 2.
+writer on iteration 17. sharedBuffer is 18.
+readerCount is -1.
+reader on iteration 87. sharedBuffer is 17.
+writer on iteration 18. sharedBuffer is 19.
+reader on iteration 46. sharedBuffer is 19.
+reader on iteration 17. sharedBuffer is 19.
+reader on iteration 93. sharedBuffer is 19.
+readerCount is 2.
+writer on iteration 19. sharedBuffer is 20.
+reader on iteration 88. sharedBuffer is 20.
+reader on iteration 74. sharedBuffer is 17.
+readerCount is -2.
+reader on iteration 75. sharedBuffer is 21.
+readerCount is -2.
+reader on iteration 76. sharedBuffer is 21.
+readerCount is -2.
+reader on iteration 77. sharedBuffer is 21.
+readerCount is -2.
+reader on iteration 78. sharedBuffer is 21.
+readerCount is -2.
+reader on iteration 79. sharedBuffer is 21.
+readerCount is -2.
+readerCount is -1.
+reader on iteration 94. sharedBuffer is 21.
+readerCount is -1.
+reader on iteration 95. sharedBuffer is 21.
+readerCount is -1.
+reader on iteration 96. sharedBuffer is 21.
+readerCount is -1.
+reader on iteration 97. sharedBuffer is 21.
+readerCount is -1.
+writer on iteration 20. sharedBuffer is 21.
+writer on iteration 21. sharedBuffer is 22.
+writer on iteration 22. sharedBuffer is 23.
+writer on iteration 23. sharedBuffer is 24.
+writer on iteration 24. sharedBuffer is 25.
+writer on iteration 25. sharedBuffer is 26.
+writer on iteration 26. sharedBuffer is 27.
+writer on iteration 27. sharedBuffer is 28.
+readerCount is -1.
+writer on iteration 28. sharedBuffer is 29.
+writer on iteration 29. sharedBuffer is 30.
+writer on iteration 30. sharedBuffer is 31.
+writer on iteration 31. sharedBuffer is 32.
+writer on iteration 32. sharedBuffer is 33.
+reader on iteration 89. sharedBuffer is 33.
+writer on iteration 33. sharedBuffer is 34.
+readerCount is 1.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 18. sharedBuffer is 35.
+reader on iteration 98. sharedBuffer is 21.
+reader on iteration 47. sharedBuffer is 35.
+writer on iteration 34. sharedBuffer is 35.
+readerCount is 2.
+writer on iteration 35. sharedBuffer is 36.
+reader on iteration 80. sharedBuffer is 21.
+readerCount is 1.
+reader on iteration 90. sharedBuffer is 35.
+writer on iteration 36. sharedBuffer is 37.
+reader on iteration 99. sharedBuffer is 37.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 19. sharedBuffer is 36.
+readerCount is -1.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 91. sharedBuffer is 38.
+writer on iteration 37. sharedBuffer is 38.
+reader on iteration 20. sharedBuffer is 38.
+reader on iteration 48. sharedBuffer is 38.
+readerCount is 2.
+readerCount is 1.
+reader on iteration 92. sharedBuffer is 39.
+reader on iteration 81. sharedBuffer is 38.
+reader on iteration 100. sharedBuffer is 38.
+readerCount is 0.
+writer on iteration 38. sharedBuffer is 39.
+readerCount is 0.
+writer on iteration 39. sharedBuffer is 40.
+readerCount is 0.
+readerCount is -1.
+reader on iteration 21. sharedBuffer is 39.
+reader on iteration 82. sharedBuffer is 40.
+readerCount is 2.
+reader on iteration 49. sharedBuffer is 40.
+reader on iteration 101. sharedBuffer is 41.
+readerCount is 1.
+writer on iteration 40. sharedBuffer is 41.
+reader on iteration 22. sharedBuffer is 41.
+writer on iteration 41. sharedBuffer is 42.
+reader on iteration 83. sharedBuffer is 41.
+reader on iteration 93. sharedBuffer is 39.
+writer on iteration 42. sharedBuffer is 43.
+readerCount is -1.
+readerCount is 0.
+reader on iteration 84. sharedBuffer is 44.
+readerCount is 0.
+writer on iteration 43. sharedBuffer is 44.
+readerCount is -1.
+readerCount is -2.
+writer on iteration 44. sharedBuffer is 45.
+readerCount is 1.
+reader on iteration 94. sharedBuffer is 45.
+readerCount is 1.
+reader on iteration 95. sharedBuffer is 45.
+readerCount is 1.
+reader on iteration 96. sharedBuffer is 45.
+readerCount is 1.
+reader on iteration 85. sharedBuffer is 44.
+writer on iteration 45. sharedBuffer is 46.
+writer on iteration 46. sharedBuffer is 47.
+writer on iteration 47. sharedBuffer is 48.
+writer on iteration 48. sharedBuffer is 49.
+readerCount is 2.
+writer on iteration 49. sharedBuffer is 50.
+reader on iteration 23. sharedBuffer is 44.
+reader on iteration 86. sharedBuffer is 50.
+readerCount is 2.
+reader on iteration 50. sharedBuffer is 49.
+reader on iteration 97. sharedBuffer is 45.
+reader on iteration 24. sharedBuffer is 51.
+readerCount is 1.
+writer on iteration 50. sharedBuffer is 51.
+readerCount is 1.
+readerCount is -1.
+readerCount is 0.
+reader on iteration 87. sharedBuffer is 52.
+readerCount is 0.
+reader on iteration 88. sharedBuffer is 52.
+readerCount is 0.
+reader on iteration 89. sharedBuffer is 52.
+reader on iteration 102. sharedBuffer is 44.
+writer on iteration 51. sharedBuffer is 52.
+reader on iteration 98. sharedBuffer is 52.
+readerCount is 2.
+readerCount is 1.
+reader on iteration 51. sharedBuffer is 51.
+readerCount is 0.
+writer on iteration 52. sharedBuffer is 53.
+reader on iteration 90. sharedBuffer is 53.
+writer on iteration 53. sharedBuffer is 54.
+reader on iteration 25. sharedBuffer is 52.
+readerCount is 1.
+readerCount is 1.
+reader on iteration 52. sharedBuffer is 55.
+writer on iteration 54. sharedBuffer is 55.
+reader on iteration 99. sharedBuffer is 53.
+reader on iteration 103. sharedBuffer is 53.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 91. sharedBuffer is 55.
+reader on iteration 26. sharedBuffer is 56.
+readerCount is -1.
+reader on iteration 27. sharedBuffer is 56.
+readerCount is -1.
+writer on iteration 55. sharedBuffer is 56.
+reader on iteration 100. sharedBuffer is 56.
+readerCount is 1.
+reader on iteration 104. sharedBuffer is 56.
+reader on iteration 53. sharedBuffer is 57.
+readerCount is 0.
+readerCount is -1.
+readerCount is -2.
+reader on iteration 92. sharedBuffer is 57.
+writer on iteration 56. sharedBuffer is 57.
+reader on iteration 54. sharedBuffer is 57.
+readerCount is 0.
+reader on iteration 105. sharedBuffer is 57.
+readerCount is 0.
+readerCount is -1.
+reader on iteration 93. sharedBuffer is 58.
+readerCount is -1.
+reader on iteration 55. sharedBuffer is 58.
+reader on iteration 28. sharedBuffer is 58.
+writer on iteration 57. sharedBuffer is 58.
+readerCount is 1.
+reader on iteration 56. sharedBuffer is 58.
+readerCount is 1.
+reader on iteration 57. sharedBuffer is 58.
+readerCount is 1.
+writer on iteration 58. sharedBuffer is 59.
+readerCount is 0.
+reader on iteration 101. sharedBuffer is 58.
+writer on iteration 59. sharedBuffer is 60.
+reader on iteration 94. sharedBuffer is 60.
+writer on iteration 60. sharedBuffer is 61.
+readerCount is -1.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 95. sharedBuffer is 61.
+readerCount is 0.
+reader on iteration 96. sharedBuffer is 61.
+readerCount is 0.
+reader on iteration 97. sharedBuffer is 61.
+readerCount is 0.
+reader on iteration 98. sharedBuffer is 61.
+writer on iteration 61. sharedBuffer is 62.
+reader on iteration 58. sharedBuffer is 62.
+readerCount is 1.
+writer on iteration 62. sharedBuffer is 63.
+readerCount is 1.
+reader on iteration 102. sharedBuffer is 63.
+reader on iteration 59. sharedBuffer is 64.
+reader on iteration 29. sharedBuffer is 59.
+readerCount is 2.
+reader on iteration 103. sharedBuffer is 64.
+readerCount is 2.
+reader on iteration 104. sharedBuffer is 64.
+readerCount is 2.
+reader on iteration 105. sharedBuffer is 64.
+readerCount is 2.
+reader on iteration 106. sharedBuffer is 64.
+readerCount is 2.
+reader on iteration 107. sharedBuffer is 64.
+readerCount is 2.
+reader on iteration 60. sharedBuffer is 64.
+readerCount is 2.
+reader on iteration 61. sharedBuffer is 64.
+writer on iteration 63. sharedBuffer is 64.
+readerCount is 1.
+reader on iteration 106. sharedBuffer is 62.
+readerCount is 2.
+readerCount is 0.
+readerCount is -1.
+reader on iteration 99. sharedBuffer is 65.
+reader on iteration 62. sharedBuffer is 65.
+readerCount is 1.
+reader on iteration 63. sharedBuffer is 65.
+readerCount is 1.
+reader on iteration 107. sharedBuffer is 65.
+reader on iteration 108. sharedBuffer is 65.
+readerCount is 1.
+readerCount is 1.
+reader on iteration 100. sharedBuffer is 65.
+readerCount is 0.
+writer on iteration 64. sharedBuffer is 65.
+reader on iteration 108. sharedBuffer is 65.
+readerCount is 2.
+readerCount is 1.
+reader on iteration 64. sharedBuffer is 65.
+reader on iteration 101. sharedBuffer is 66.
+readerCount is 2.
+readerCount is 2.
+reader on iteration 65. sharedBuffer is 66.
+readerCount is 2.
+reader on iteration 66. sharedBuffer is 66.
+readerCount is 2.
+reader on iteration 30. sharedBuffer is 66.
+reader on iteration 109. sharedBuffer is 66.
+writer on iteration 65. sharedBuffer is 66.
+readerCount is 1.
+reader on iteration 109. sharedBuffer is 65.
+writer on iteration 66. sharedBuffer is 67.
+writer on iteration 67. sharedBuffer is 68.
+writer on iteration 68. sharedBuffer is 69.
+writer on iteration 69. sharedBuffer is 70.
+writer on iteration 70. sharedBuffer is 71.
+writer on iteration 71. sharedBuffer is 72.
+reader on iteration 31. sharedBuffer is 68.
+readerCount is -1.
+reader on iteration 32. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 33. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 34. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 35. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 36. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 37. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 38. sharedBuffer is 73.
+readerCount is -1.
+readerCount is 0.
+reader on iteration 39. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 40. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 41. sharedBuffer is 73.
+readerCount is -1.
+reader on iteration 42. sharedBuffer is 73.
+reader on iteration 110. sharedBuffer is 73.
+readerCount is 2.
+readerCount is -1.
+readerCount is 0.
+readerCount is -1.
+reader on iteration 110. sharedBuffer is 73.
+reader on iteration 111. sharedBuffer is 73.
+reader on iteration 102. sharedBuffer is 66.
+writer on iteration 72. sharedBuffer is 73.
+reader on iteration 67. sharedBuffer is 73.
+readerCount is 1.
+reader on iteration 43. sharedBuffer is 73.
+writer on iteration 73. sharedBuffer is 74.
+readerCount is -2.
+readerCount is 0.
+writer on iteration 74. sharedBuffer is 75.
+reader on iteration 112. sharedBuffer is 75.
+readerCount is -1.
+reader on iteration 111. sharedBuffer is 74.
+readerCount is -1.
+reader on iteration 103. sharedBuffer is 76.
+reader on iteration 44. sharedBuffer is 75.
+readerCount is -2.
+readerCount is -1.
+readerCount is -2.
+writer on iteration 75. sharedBuffer is 76.
+reader on iteration 113. sharedBuffer is 76.
+reader on iteration 104. sharedBuffer is 76.
+readerCount is -1.
+writer on iteration 76. sharedBuffer is 77.
+readerCount is -1.
+reader on iteration 68. sharedBuffer is 76.
+reader on iteration 112. sharedBuffer is 77.
+writer on iteration 77. sharedBuffer is 78.
+reader on iteration 105. sharedBuffer is 78.
+readerCount is -1.
+reader on iteration 45. sharedBuffer is 77.
+writer on iteration 78. sharedBuffer is 79.
+writer on iteration 79. sharedBuffer is 80.
+writer on iteration 80. sharedBuffer is 81.
+readerCount is -2.
+readerCount is 0.
+readerCount is -2.
+reader on iteration 113. sharedBuffer is 81.
+reader on iteration 106. sharedBuffer is 82.
+reader on iteration 46. sharedBuffer is 82.
+readerCount is 0.
+writer on iteration 81. sharedBuffer is 82.
+reader on iteration 114. sharedBuffer is 82.
+readerCount is -2.
+readerCount is -2.
+readerCount is 0.
+reader on iteration 47. sharedBuffer is 83.
+readerCount is -2.
+reader on iteration 48. sharedBuffer is 83.
+reader on iteration 115. sharedBuffer is 83.
+readerCount is -1.
+reader on iteration 49. sharedBuffer is 83.
+readerCount is -1.
+reader on iteration 50. sharedBuffer is 83.
+reader on iteration 114. sharedBuffer is 83.
+reader on iteration 69. sharedBuffer is 82.
+writer on iteration 82. sharedBuffer is 83.
+readerCount is -2.
+reader on iteration 115. sharedBuffer is 83.
+readerCount is -2.
+reader on iteration 116. sharedBuffer is 83.
+readerCount is 0.
+readerCount is -2.
+reader on iteration 116. sharedBuffer is 84.
+readerCount is -3.
+writer on iteration 83. sharedBuffer is 84.
+readerCount is -3.
+readerCount is -1.
+writer on iteration 84. sharedBuffer is 85.
+writer on iteration 85. sharedBuffer is 86.
+reader on iteration 117. sharedBuffer is 86.
+readerCount is -2.
+reader on iteration 118. sharedBuffer is 86.
+readerCount is -2.
+reader on iteration 119. sharedBuffer is 86.
+readerCount is -1.
+reader on iteration 107. sharedBuffer is 86.
+reader on iteration 70. sharedBuffer is 84.
+reader on iteration 117. sharedBuffer is 84.
+writer on iteration 86. sharedBuffer is 87.
+readerCount is -2.
+readerCount is -1.
+writer on iteration 87. sharedBuffer is 88.
+writer on iteration 88. sharedBuffer is 89.
+writer on iteration 89. sharedBuffer is 90.
+reader on iteration 120. sharedBuffer is 90.
+writer on iteration 90. sharedBuffer is 91.
+writer on iteration 91. sharedBuffer is 92.
+writer on iteration 92. sharedBuffer is 93.
+writer on iteration 93. sharedBuffer is 94.
+reader on iteration 51. sharedBuffer is 87.
+reader on iteration 71. sharedBuffer is 90.
+readerCount is -3.
+reader on iteration 52. sharedBuffer is 95.
+readerCount is -3.
+reader on iteration 53. sharedBuffer is 95.
+readerCount is -3.
+readerCount is -2.
+readerCount is -4.
+reader on iteration 54. sharedBuffer is 95.
+readerCount is -4.
+reader on iteration 55. sharedBuffer is 95.
+readerCount is -4.
+reader on iteration 56. sharedBuffer is 95.
+readerCount is -4.
+reader on iteration 72. sharedBuffer is 95.
+readerCount is -3.
+reader on iteration 121. sharedBuffer is 95.
+readerCount is -1.
+readerCount is -2.
+readerCount is -1.
+reader on iteration 73. sharedBuffer is 95.
+readerCount is -2.
+reader on iteration 74. sharedBuffer is 95.
+reader on iteration 108. sharedBuffer is 95.
+reader on iteration 118. sharedBuffer is 95.
+reader on iteration 57. sharedBuffer is 95.
+writer on iteration 94. sharedBuffer is 95.
+readerCount is -3.
+readerCount is -2.
+reader on iteration 122. sharedBuffer is 95.
+reader on iteration 58. sharedBuffer is 95.
+readerCount is 0.
+readerCount is -1.
+readerCount is -2.
+writer on iteration 95. sharedBuffer is 96.
+reader on iteration 75. sharedBuffer is 96.
+reader on iteration 123. sharedBuffer is 96.
+writer on iteration 96. sharedBuffer is 97.
+reader on iteration 119. sharedBuffer is 96.
+readerCount is -3.
+readerCount is -2.
+reader on iteration 109. sharedBuffer is 96.
+readerCount is -3.
+writer on iteration 97. sharedBuffer is 98.
+reader on iteration 124. sharedBuffer is 98.
+reader on iteration 59. sharedBuffer is 98.
+readerCount is -3.
+reader on iteration 76. sharedBuffer is 98.
+readerCount is -3.
+writer on iteration 98. sharedBuffer is 99.
+reader on iteration 110. sharedBuffer is 99.
+readerCount is -4.
+reader on iteration 125. sharedBuffer is 99.
+reader on iteration 120. sharedBuffer is 100.
+readerCount is -4.
+writer on iteration 99. sharedBuffer is 100.
+readerCount is -5.
+readerCount is -4.
+reader on iteration 60. sharedBuffer is 100.
+reader on iteration 121. sharedBuffer is 101.
+readerCount is -4.
+reader on iteration 122. sharedBuffer is 101.
+readerCount is -4.
+reader on iteration 77. sharedBuffer is 101.
+writer on iteration 100. sharedBuffer is 101.
+readerCount is -4.
+readerCount is -4.
+readerCount is -4.
+writer on iteration 101. sharedBuffer is 102.
+reader on iteration 78. sharedBuffer is 102.
+readerCount is -3.
+reader on iteration 111. sharedBuffer is 102.
+writer on iteration 102. sharedBuffer is 103.
+writer on iteration 103. sharedBuffer is 104.
+writer on iteration 104. sharedBuffer is 105.
+readerCount is -4.
+readerCount is -2.
+reader on iteration 112. sharedBuffer is 105.
+reader on iteration 79. sharedBuffer is 105.
+reader on iteration 61. sharedBuffer is 102.
+writer on iteration 105. sharedBuffer is 106.
+reader on iteration 123. sharedBuffer is 101.
+readerCount is -2.
+readerCount is -4.
+reader on iteration 126. sharedBuffer is 106.
+reader on iteration 80. sharedBuffer is 107.
+readerCount is -3.
+reader on iteration 124. sharedBuffer is 107.
+reader on iteration 62. sharedBuffer is 107.
+writer on iteration 106. sharedBuffer is 107.
+readerCount is -3.
+readerCount is -1.
+readerCount is -5.
+readerCount is -4.
+reader on iteration 127. sharedBuffer is 108.
+readerCount is -4.
+reader on iteration 63. sharedBuffer is 108.
+reader on iteration 81. sharedBuffer is 108.
+reader on iteration 125. sharedBuffer is 108.
+reader on iteration 113. sharedBuffer is 108.
+readerCount is -3.
+readerCount is -2.
+readerCount is -4.
+reader on iteration 126. sharedBuffer is 108.
+readerCount is -4.
+reader on iteration 127. sharedBuffer is 108.
+reader on iteration 128. sharedBuffer is 108.
+writer on iteration 107. sharedBuffer is 108.
+readerCount is -2.
+readerCount is -4.
+readerCount is -3.
+reader on iteration 114. sharedBuffer is 109.
+reader on iteration 64. sharedBuffer is 109.
+reader on iteration 129. sharedBuffer is 109.
+readerCount is -1.
+writer on iteration 108. sharedBuffer is 109.
+writer on iteration 109. sharedBuffer is 110.
+writer on iteration 110. sharedBuffer is 111.
+writer on iteration 111. sharedBuffer is 112.
+writer on iteration 112. sharedBuffer is 113.
+writer on iteration 113. sharedBuffer is 114.
+writer on iteration 114. sharedBuffer is 115.
+writer on iteration 115. sharedBuffer is 116.
+readerCount is -3.
+writer on iteration 116. sharedBuffer is 117.
+writer on iteration 117. sharedBuffer is 118.
+writer on iteration 118. sharedBuffer is 119.
+readerCount is -2.
+reader on iteration 82. sharedBuffer is 108.
+reader on iteration 130. sharedBuffer is 119.
+reader on iteration 115. sharedBuffer is 109.
+writer on iteration 119. sharedBuffer is 120.
+readerCount is -2.
+readerCount is -1.
+reader on iteration 65. sharedBuffer is 120.
+reader on iteration 128. sharedBuffer is 121.
+readerCount is -3.
+reader on iteration 129. sharedBuffer is 121.
+readerCount is -3.
+reader on iteration 83. sharedBuffer is 121.
+readerCount is -3.
+writer on iteration 120. sharedBuffer is 121.
+readerCount is -2.
+readerCount is -3.
+reader on iteration 131. sharedBuffer is 121.
+readerCount is -3.
+reader on iteration 116. sharedBuffer is 121.
+reader on iteration 130. sharedBuffer is 121.
+readerCount is -1.
+reader on iteration 84. sharedBuffer is 122.
+reader on iteration 132. sharedBuffer is 122.
+writer on iteration 121. sharedBuffer is 122.
+readerCount is -2.
+reader on iteration 85. sharedBuffer is 122.
+readerCount is -2.
+readerCount is -2.
+reader on iteration 86. sharedBuffer is 122.
+readerCount is 0.
+writer on iteration 122. sharedBuffer is 123.
+writer on iteration 123. sharedBuffer is 124.
+writer on iteration 124. sharedBuffer is 125.
+writer on iteration 125. sharedBuffer is 126.
+readerCount is -2.
+reader on iteration 87. sharedBuffer is 126.
+readerCount is -2.
+reader on iteration 117. sharedBuffer is 126.
+reader on iteration 88. sharedBuffer is 127.
+reader on iteration 66. sharedBuffer is 122.
+reader on iteration 133. sharedBuffer is 122.
+writer on iteration 126. sharedBuffer is 127.
+readerCount is -2.
+writer on iteration 127. sharedBuffer is 128.
+readerCount is -3.
+readerCount is -1.
+reader on iteration 89. sharedBuffer is 128.
+readerCount is -4.
+reader on iteration 118. sharedBuffer is 129.
+readerCount is -1.
+reader on iteration 67. sharedBuffer is 129.
+reader on iteration 131. sharedBuffer is 129.
+writer on iteration 128. sharedBuffer is 129.
+reader on iteration 134. sharedBuffer is 129.
+readerCount is -2.
+readerCount is -3.
+reader on iteration 90. sharedBuffer is 130.
+readerCount is -1.
+writer on iteration 129. sharedBuffer is 130.
+readerCount is -2.
+readerCount is -3.
+reader on iteration 68. sharedBuffer is 131.
+readerCount is -4.
+writer on iteration 130. sharedBuffer is 131.
+reader on iteration 132. sharedBuffer is 130.
+reader on iteration 91. sharedBuffer is 131.
+reader on iteration 135. sharedBuffer is 131.
+reader on iteration 119. sharedBuffer is 130.
+readerCount is -2.
+readerCount is -3.
+reader on iteration 92. sharedBuffer is 132.
+writer on iteration 131. sharedBuffer is 132.
+readerCount is -1.
+readerCount is -1.
+readerCount is -3.
+reader on iteration 69. sharedBuffer is 133.
+readerCount is -4.
+reader on iteration 133. sharedBuffer is 133.
+reader on iteration 136. sharedBuffer is 132.
+readerCount is -1.
+readerCount is -1.
+writer on iteration 132. sharedBuffer is 133.
+reader on iteration 70. sharedBuffer is 133.
+reader on iteration 120. sharedBuffer is 133.
+writer on iteration 133. sharedBuffer is 134.
+readerCount is -2.
+readerCount is -1.
+writer on iteration 134. sharedBuffer is 135.
+reader on iteration 134. sharedBuffer is 133.
+readerCount is -2.
+reader on iteration 93. sharedBuffer is 133.
+writer on iteration 135. sharedBuffer is 136.
+reader on iteration 121. sharedBuffer is 136.
+reader on iteration 137. sharedBuffer is 135.
+readerCount is -1.
+reader on iteration 71. sharedBuffer is 135.
+readerCount is -2.
+reader on iteration 135. sharedBuffer is 137.
+reader on iteration 122. sharedBuffer is 137.
+readerCount is -1.
+readerCount is -3.
+readerCount is -4.
+reader on iteration 94. sharedBuffer is 137.
+readerCount is -2.
+reader on iteration 95. sharedBuffer is 137.
+readerCount is -2.
+reader on iteration 96. sharedBuffer is 137.
+readerCount is -2.
+reader on iteration 97. sharedBuffer is 137.
+readerCount is -2.
+reader on iteration 98. sharedBuffer is 137.
+reader on iteration 138. sharedBuffer is 137.
+readerCount is -2.
+readerCount is -3.
+reader on iteration 139. sharedBuffer is 137.
+readerCount is -3.
+reader on iteration 140. sharedBuffer is 137.
+readerCount is -3.
+reader on iteration 141. sharedBuffer is 137.
+readerCount is -3.
+reader on iteration 142. sharedBuffer is 137.
+readerCount is -3.
+reader on iteration 143. sharedBuffer is 137.
+reader on iteration 99. sharedBuffer is 137.
+readerCount is -3.
+reader on iteration 123. sharedBuffer is 137.
+readerCount is -2.
+readerCount is -3.
+writer on iteration 136. sharedBuffer is 137.
+readerCount is -3.
+reader on iteration 124. sharedBuffer is 137.
+readerCount is -2.
+reader on iteration 125. sharedBuffer is 137.
+readerCount is -2.
+reader on iteration 126. sharedBuffer is 137.
+readerCount is -2.
+reader on iteration 127. sharedBuffer is 137.
+writer on iteration 137. sharedBuffer is 138.
+reader on iteration 72. sharedBuffer is 137.
+reader on iteration 144. sharedBuffer is 137.
+readerCount is -3.
+readerCount is -3.
+writer on iteration 138. sharedBuffer is 139.
+reader on iteration 100. sharedBuffer is 139.
+reader on iteration 145. sharedBuffer is 139.
+writer on iteration 139. sharedBuffer is 140.
+writer on iteration 140. sharedBuffer is 141.
+writer on iteration 141. sharedBuffer is 142.
+writer on iteration 142. sharedBuffer is 143.
+writer on iteration 143. sharedBuffer is 144.
+readerCount is -2.
+reader on iteration 101. sharedBuffer is 144.
+readerCount is -2.
+reader on iteration 136. sharedBuffer is 138.
+readerCount is -2.
+writer on iteration 144. sharedBuffer is 145.
+reader on iteration 128. sharedBuffer is 145.
+readerCount is -3.
+readerCount is -2.
+readerCount is -3.
+reader on iteration 73. sharedBuffer is 146.
+readerCount is -3.
+writer on iteration 145. sharedBuffer is 146.
+reader on iteration 146. sharedBuffer is 146.
+readerCount is 0.
+readerCount is 0.
+reader on iteration 102. sharedBuffer is 145.
+reader on iteration 137. sharedBuffer is 146.
+reader on iteration 74. sharedBuffer is 147.
+readerCount is 1.
+readerCount is 0.
+readerCount is -1.
+reader on iteration 147. sharedBuffer is 147.
+writer on iteration 146. sharedBuffer is 147.
+reader on iteration 138. sharedBuffer is 147.
+readerCount is 1.
+reader on iteration 129. sharedBuffer is 146.
+reader on iteration 103. sharedBuffer is 147.
+readerCount is 0.
+reader on iteration 75. sharedBuffer is 147.
+reader on iteration 148. sharedBuffer is 148.
+readerCount is -1.
+writer on iteration 147. sharedBuffer is 148.
+reader on iteration 139. sharedBuffer is 148.
+readerCount is 0.
+readerCount is -2.
+reader on iteration 104. sharedBuffer is 149.
+reader on iteration 149. sharedBuffer is 149.
+readerCount is -1.
+writer on iteration 148. sharedBuffer is 149.
+readerCount is -3.
+readerCount is -2.
+writer on iteration 149. sharedBuffer is 150.
+reader on iteration 105. sharedBuffer is 150.
+readerCount is -2.
+reader on iteration 150. sharedBuffer is 149.
+reader on iteration 76. sharedBuffer is 149.
+readerCount is -1.
+readerCount is -1.
+readerCount is -2.
+reader on iteration 130. sharedBuffer is 149.
+reader on iteration 106. sharedBuffer is 151.
+readerCount is -2.
+reader on iteration 107. sharedBuffer is 151.
+reader on iteration 77. sharedBuffer is 151.
+reader on iteration 140. sharedBuffer is 151.
+readerCount is -2.
+reader on iteration 151. sharedBuffer is 151.
+readerCount is -3.
+reader on iteration 108. sharedBuffer is 151.
+readerCount is -4.
+readerCount is -1.
+readerCount is -4.
+reader on iteration 141. sharedBuffer is 151.
+readerCount is -4.
+writer on iteration 150. sharedBuffer is 151.
+reader on iteration 78. sharedBuffer is 151.
+reader on iteration 152. sharedBuffer is 151.
+reader on iteration 131. sharedBuffer is 151.
+writer on iteration 151. sharedBuffer is 152.
+readerCount is -2.
+readerCount is -4.
+reader on iteration 132. sharedBuffer is 152.
+readerCount is -3.
+reader on iteration 133. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 134. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 135. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 136. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 137. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 138. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 139. sharedBuffer is 153.
+reader on iteration 109. sharedBuffer is 151.
+readerCount is -3.
+reader on iteration 140. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 141. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 142. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 143. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 144. sharedBuffer is 153.
+readerCount is -3.
+reader on iteration 142. sharedBuffer is 153.
+readerCount is -2.
+reader on iteration 110. sharedBuffer is 153.
+readerCount is -4.
+reader on iteration 111. sharedBuffer is 153.
+readerCount is -4.
+reader on iteration 112. sharedBuffer is 153.
+readerCount is -4.
+reader on iteration 143. sharedBuffer is 153.
+readerCount is -4.
+reader on iteration 144. sharedBuffer is 153.
+readerCount is -4.
+readerCount is -3.
+readerCount is -4.
+reader on iteration 153. sharedBuffer is 153.
+readerCount is -4.
+writer on iteration 152. sharedBuffer is 153.
+reader on iteration 113. sharedBuffer is 153.
+reader on iteration 145. sharedBuffer is 153.
+writer on iteration 153. sharedBuffer is 154.
+reader on iteration 79. sharedBuffer is 153.
+readerCount is -3.
+writer on iteration 154. sharedBuffer is 155.
+readerCount is -3.
+readerCount is -4.
+reader on iteration 145. sharedBuffer is 153.
+writer on iteration 155. sharedBuffer is 156.
+readerCount is -5.
+reader on iteration 146. sharedBuffer is 156.
+writer on iteration 156. sharedBuffer is 157.
+reader on iteration 80. sharedBuffer is 157.
+readerCount is -3.
+readerCount is -3.
+reader on iteration 114. sharedBuffer is 155.
+reader on iteration 147. sharedBuffer is 158.
+reader on iteration 154. sharedBuffer is 156.
+readerCount is -4.
+writer on iteration 157. sharedBuffer is 158.
+readerCount is -6.
+reader on iteration 146. sharedBuffer is 158.
+reader on iteration 81. sharedBuffer is 158.
+readerCount is -5.
+reader on iteration 155. sharedBuffer is 159.
+readerCount is -6.
+reader on iteration 82. sharedBuffer is 159.
+reader on iteration 148. sharedBuffer is 159.
+readerCount is -4.
+writer on iteration 158. sharedBuffer is 159.
+readerCount is -5.
+readerCount is -7.
+reader on iteration 149. sharedBuffer is 159.
+readerCount is -7.
+reader on iteration 150. sharedBuffer is 159.
+readerCount is -7.
+reader on iteration 151. sharedBuffer is 159.
+readerCount is -7.
+reader on iteration 152. sharedBuffer is 159.
+readerCount is -7.
+reader on iteration 153. sharedBuffer is 159.
+readerCount is -7.
+readerCount is -5.
+reader on iteration 115. sharedBuffer is 159.
+reader on iteration 83. sharedBuffer is 160.
+reader on iteration 147. sharedBuffer is 159.
+reader on iteration 154. sharedBuffer is 159.
+readerCount is -4.
+readerCount is -6.
+readerCount is -7.
+writer on iteration 159. sharedBuffer is 160.
+reader on iteration 116. sharedBuffer is 160.
+readerCount is -7.
+reader on iteration 117. sharedBuffer is 160.
+readerCount is -7.
+reader on iteration 118. sharedBuffer is 160.
+reader on iteration 156. sharedBuffer is 160.
+readerCount is -5.
+readerCount is -6.
+readerCount is -5.
+reader on iteration 119. sharedBuffer is 161.
+reader on iteration 155. sharedBuffer is 160.
+reader on iteration 148. sharedBuffer is 161.
+reader on iteration 84. sharedBuffer is 161.
+readerCount is -5.
+writer on iteration 160. sharedBuffer is 161.
+readerCount is -7.
+reader on iteration 85. sharedBuffer is 161.
+readerCount is -7.
+reader on iteration 86. sharedBuffer is 161.
+readerCount is -4.
+readerCount is -6.
+writer on iteration 161. sharedBuffer is 162.
+writer on iteration 162. sharedBuffer is 163.
+writer on iteration 163. sharedBuffer is 164.
+writer on iteration 164. sharedBuffer is 165.
+writer on iteration 165. sharedBuffer is 166.
+writer on iteration 166. sharedBuffer is 167.
+writer on iteration 167. sharedBuffer is 168.
+writer on iteration 168. sharedBuffer is 169.
+writer on iteration 169. sharedBuffer is 170.
+writer on iteration 170. sharedBuffer is 171.
+writer on iteration 171. sharedBuffer is 172.
+writer on iteration 172. sharedBuffer is 173.
+readerCount is -6.
+writer on iteration 173. sharedBuffer is 174.
+reader on iteration 149. sharedBuffer is 174.
+readerCount is -5.
+reader on iteration 150. sharedBuffer is 174.
+readerCount is -5.
+reader on iteration 151. sharedBuffer is 174.
+readerCount is -5.
+reader on iteration 152. sharedBuffer is 174.
+readerCount is -5.
+reader on iteration 153. sharedBuffer is 174.
+writer on iteration 174. sharedBuffer is 175.
+reader on iteration 157. sharedBuffer is 166.
+readerCount is -6.
+writer on iteration 175. sharedBuffer is 176.
+reader on iteration 120. sharedBuffer is 166.
+reader on iteration 156. sharedBuffer is 161.
+readerCount is -6.
+writer on iteration 176. sharedBuffer is 177.
+readerCount is -5.
+reader on iteration 158. sharedBuffer is 177.
+reader on iteration 87. sharedBuffer is 176.
+writer on iteration 177. sharedBuffer is 178.
+readerCount is -7.
+readerCount is -7.
+readerCount is -6.
+reader on iteration 88. sharedBuffer is 179.
+readerCount is -6.
+reader on iteration 154. sharedBuffer is 178.
+readerCount is -5.
+reader on iteration 89. sharedBuffer is 179.
+readerCount is -5.
+reader on iteration 90. sharedBuffer is 179.
+writer on iteration 178. sharedBuffer is 179.
+reader on iteration 157. sharedBuffer is 179.
+reader on iteration 159. sharedBuffer is 179.
+reader on iteration 121. sharedBuffer is 179.
+writer on iteration 179. sharedBuffer is 180.
+readerCount is -4.
+readerCount is -8.
+reader on iteration 122. sharedBuffer is 180.
+readerCount is -8.
+writer on iteration 180. sharedBuffer is 181.
+writer on iteration 181. sharedBuffer is 182.
+writer on iteration 182. sharedBuffer is 183.
+reader on iteration 123. sharedBuffer is 183.
+readerCount is -7.
+readerCount is -6.
+readerCount is -5.
+reader on iteration 160. sharedBuffer is 184.
+reader on iteration 91. sharedBuffer is 183.
+writer on iteration 183. sharedBuffer is 184.
+readerCount is -7.
+readerCount is -6.
+reader on iteration 158. sharedBuffer is 184.
+writer on iteration 184. sharedBuffer is 185.
+reader on iteration 124. sharedBuffer is 185.
+reader on iteration 155. sharedBuffer is 184.
+writer on iteration 185. sharedBuffer is 186.
+writer on iteration 186. sharedBuffer is 187.
+writer on iteration 187. sharedBuffer is 188.
+readerCount is -7.
+readerCount is -6.
+readerCount is -8.
+reader on iteration 156. sharedBuffer is 189.
+readerCount is -8.
+reader on iteration 157. sharedBuffer is 189.
+writer on iteration 188. sharedBuffer is 189.
+readerCount is -7.
+reader on iteration 92. sharedBuffer is 189.
+reader on iteration 161. sharedBuffer is 185.
+writer on iteration 189. sharedBuffer is 190.
+readerCount is -6.
+reader on iteration 159. sharedBuffer is 189.
+writer on iteration 190. sharedBuffer is 191.
+writer on iteration 191. sharedBuffer is 192.
+writer on iteration 192. sharedBuffer is 193.
+readerCount is -6.
+reader on iteration 93. sharedBuffer is 193.
+reader on iteration 158. sharedBuffer is 194.
+reader on iteration 125. sharedBuffer is 190.
+readerCount is -7.
+writer on iteration 193. sharedBuffer is 194.
+reader on iteration 162. sharedBuffer is 194.
+readerCount is -7.
+readerCount is -9.
+readerCount is -7.
+readerCount is -8.
+readerCount is -9.
+writer on iteration 194. sharedBuffer is 195.
+reader on iteration 160. sharedBuffer is 195.
+reader on iteration 163. sharedBuffer is 195.
+readerCount is -5.
+writer on iteration 195. sharedBuffer is 196.
+writer on iteration 196. sharedBuffer is 197.
+reader on iteration 159. sharedBuffer is 195.
+reader on iteration 161. sharedBuffer is 197.
+reader on iteration 94. sharedBuffer is 195.
+readerCount is -6.
+reader on iteration 160. sharedBuffer is 198.
+readerCount is -6.
+reader on iteration 126. sharedBuffer is 195.
+readerCount is -7.
+readerCount is -6.
+reader on iteration 162. sharedBuffer is 198.
+reader on iteration 161. sharedBuffer is 198.
+readerCount is -8.
+reader on iteration 162. sharedBuffer is 198.
+readerCount is -8.
+reader on iteration 163. sharedBuffer is 198.
+readerCount is -8.
+reader on iteration 164. sharedBuffer is 198.
+readerCount is -8.
+reader on iteration 165. sharedBuffer is 198.
+readerCount is -8.
+reader on iteration 166. sharedBuffer is 198.
+writer on iteration 197. sharedBuffer is 198.
+readerCount is -8.
+reader on iteration 167. sharedBuffer is 198.
+readerCount is -8.
+reader on iteration 168. sharedBuffer is 198.
+readerCount is -8.
+reader on iteration 169. sharedBuffer is 198.
+writer on iteration 198. sharedBuffer is 199.
+readerCount is -8.
+writer on iteration 199. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -8.
+reader on iteration 170. sharedBuffer is 200.
+reader on iteration 127. sharedBuffer is 200.
+reader on iteration 164. sharedBuffer is 198.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 163. sharedBuffer is 200.
+reader on iteration 171. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 172. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 173. sharedBuffer is 200.
+reader on iteration 128. sharedBuffer is 200.
+readerCount is -8.
+readerCount is -9.
+readerCount is -7.
+readerCount is -8.
+reader on iteration 174. sharedBuffer is 200.
+reader on iteration 164. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 165. sharedBuffer is 200.
+reader on iteration 95. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -8.
+readerCount is -6.
+reader on iteration 129. sharedBuffer is 200.
+reader on iteration 165. sharedBuffer is 200.
+reader on iteration 175. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+readerCount is -8.
+reader on iteration 166. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 96. sharedBuffer is 200.
+reader on iteration 166. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 176. sharedBuffer is 200.
+reader on iteration 97. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 98. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 130. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 99. sharedBuffer is 200.
+reader on iteration 167. sharedBuffer is 200.
+reader on iteration 167. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 100. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 177. sharedBuffer is 200.
+reader on iteration 168. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 178. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 179. sharedBuffer is 200.
+reader on iteration 131. sharedBuffer is 200.
+readerCount is -8.
+readerCount is -7.
+reader on iteration 168. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 101. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -8.
+readerCount is -7.
+reader on iteration 102. sharedBuffer is 200.
+reader on iteration 169. sharedBuffer is 200.
+readerCount is -5.
+readerCount is -6.
+reader on iteration 169. sharedBuffer is 200.
+reader on iteration 103. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 104. sharedBuffer is 200.
+reader on iteration 170. sharedBuffer is 200.
+reader on iteration 132. sharedBuffer is 200.
+reader on iteration 180. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -9.
+readerCount is -5.
+readerCount is -8.
+reader on iteration 181. sharedBuffer is 200.
+reader on iteration 133. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 170. sharedBuffer is 200.
+reader on iteration 171. sharedBuffer is 200.
+readerCount is -5.
+reader on iteration 105. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 182. sharedBuffer is 200.
+reader on iteration 171. sharedBuffer is 200.
+readerCount is -5.
+readerCount is -6.
+reader on iteration 134. sharedBuffer is 200.
+reader on iteration 106. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 107. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 183. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 184. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 185. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 186. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 187. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 188. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 189. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 190. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 191. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 192. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 193. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 194. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 195. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 196. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 197. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 108. sharedBuffer is 200.
+reader on iteration 198. sharedBuffer is 200.
+reader on iteration 135. sharedBuffer is 200.
+readerCount is -5.
+reader on iteration 109. sharedBuffer is 200.
+readerCount is -5.
+reader on iteration 110. sharedBuffer is 200.
+reader on iteration 172. sharedBuffer is 200.
+reader on iteration 172. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 111. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 112. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -5.
+readerCount is -6.
+readerCount is -9.
+reader on iteration 136. sharedBuffer is 200.
+reader on iteration 199. sharedBuffer is 200.
+readerCount is -5.
+reader on iteration 173. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 137. sharedBuffer is 200.
+readerCount is -6.
+reader on iteration 113. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -8.
+reader on iteration 114. sharedBuffer is 200.
+readerCount is -8.
+readerCount is -8.
+reader on iteration 115. sharedBuffer is 200.
+reader on iteration 173. sharedBuffer is 200.
+reader on iteration 174. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 138. sharedBuffer is 200.
+reader on iteration 116. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 117. sharedBuffer is 200.
+readerCount is -8.
+readerCount is -7.
+readerCount is -8.
+reader on iteration 174. sharedBuffer is 200.
+reader on iteration 118. sharedBuffer is 200.
+reader on iteration 139. sharedBuffer is 200.
+reader on iteration 175. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -8.
+readerCount is -6.
+reader on iteration 119. sharedBuffer is 200.
+reader on iteration 140. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -8.
+reader on iteration 141. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 176. sharedBuffer is 200.
+reader on iteration 142. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -7.
+readerCount is -8.
+reader on iteration 143. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 144. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 177. sharedBuffer is 200.
+reader on iteration 145. sharedBuffer is 200.
+readerCount is -7.
+writer_join.
+readerCount is -8.
+reader on iteration 146. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 178. sharedBuffer is 200.
+reader on iteration 147. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 120. sharedBuffer is 200.
+reader on iteration 179. sharedBuffer is 200.
+readerCount is -8.
+readerCount is -9.
+reader on iteration 121. sharedBuffer is 200.
+reader on iteration 180. sharedBuffer is 200.
+reader on iteration 175. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -7.
+reader on iteration 181. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -9.
+reader on iteration 176. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 182. sharedBuffer is 200.
+readerCount is -8.
+readerCount is -7.
+reader on iteration 183. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 184. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 148. sharedBuffer is 200.
+reader on iteration 185. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 186. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 187. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 188. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 189. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 190. sharedBuffer is 200.
+reader on iteration 177. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 191. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 192. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 193. sharedBuffer is 200.
+readerCount is -7.
+reader on iteration 194. sharedBuffer is 200.
+reader on iteration 122. sharedBuffer is 200.
+readerCount is -8.
+readerCount is -9.
+readerCount is -7.
+reader on iteration 195. sharedBuffer is 200.
+reader on iteration 123. sharedBuffer is 200.
+readerCount is -6.
+readerCount is -7.
+reader on iteration 149. sharedBuffer is 200.
+reader on iteration 178. sharedBuffer is 200.
+reader on iteration 196. sharedBuffer is 200.
+readerCount is -7.
+readerCount is -8.
+readerCount is -9.
+reader on iteration 150. sharedBuffer is 200.
+reader on iteration 124. sharedBuffer is 200.
+readerCount is -8.
+readerCount is -7.
+reader on iteration 179. sharedBuffer is 200.
+readerCount is -8.
+reader on iteration 197. sharedBuffer is 200.
+reader on iteration 125. sharedBuffer is 200.
+reader on iteration 151. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -10.
+readerCount is -8.
+reader on iteration 126. sharedBuffer is 200.
+reader on iteration 198. sharedBuffer is 200.
+readerCount is -11.
+readerCount is -9.
+reader on iteration 152. sharedBuffer is 200.
+reader on iteration 180. sharedBuffer is 200.
+reader on iteration 127. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -10.
+reader on iteration 181. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -8.
+readerCount is -9.
+reader on iteration 128. sharedBuffer is 200.
+reader on iteration 182. sharedBuffer is 200.
+reader on iteration 199. sharedBuffer is 200.
+readerCount is -9.
+reader on iteration 153. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -10.
+readerCount is -8.
+reader on iteration 154. sharedBuffer is 200.
+reader on iteration 129. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -10.
+reader on iteration 183. sharedBuffer is 200.
+reader on iteration 130. sharedBuffer is 200.
+readerCount is -9.
+readerCount is -10.
+reader on iteration 184. sharedBuffer is 200.
+reader on iteration 131. sharedBuffer is 200.
+reader on iteration 155. sharedBuffer is 200.
+readerCount is -10.
+readerCount is -11.
+reader on iteration 132. sharedBuffer is 200.
+reader on iteration 156. sharedBuffer is 200.
+readerCount is -10.
+readerCount is -11.
+reader on iteration 133. sharedBuffer is 200.
+reader on iteration 157. sharedBuffer is 200.
+readerCount is -10.
+readerCount is -9.
+reader on iteration 134. sharedBuffer is 200.
+reader on iteration 185. sharedBuffer is 200.
+readerCount is -10.
+reader on iteration 186. sharedBuffer is 200.
+readerCount is -10.
+reader on iteration 187. sharedBuffer is 200.
+readerCount is -10.
+reader on iteration 188. sharedBuffer is 200.
+readerCount is -10.
+reader on iteration 189. sharedBuffer is 200.
+readerCount is -10.
+readerCount is -11.
+reader on iteration 190. sharedBuffer is 200.
+reader on iteration 135. sharedBuffer is 200.
+readerCount is -11.
+readerCount is -11.
+reader on iteration 158. sharedBuffer is 200.
+reader on iteration 136. sharedBuffer is 200.
+readerCount is -10.
+reader on iteration 159. sharedBuffer is 200.
+readerCount is -10.
+readerCount is -11.
+reader on iteration 137. sharedBuffer is 200.
+readerCount is -10.
+readerCount is -11.
+reader on iteration 191. sharedBuffer is 200.
+reader on iteration 160. sharedBuffer is 200.
+readerCount is -10.
+readerCount is -11.
+reader on iteration 192. sharedBuffer is 200.
+reader on iteration 161. sharedBuffer is 200.
+reader on iteration 138. sharedBuffer is 200.
+readerCount is -11.
+readerCount is -12.
+reader on iteration 162. sharedBuffer is 200.
+reader on iteration 139. sharedBuffer is 200.
+readerCount is -10.
+readerCount is -12.
+reader on iteration 193. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 194. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 195. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 196. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 197. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 198. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 199. sharedBuffer is 200.
+readerCount is -11.
+readerCount is -11.
+reader on iteration 163. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 164. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 165. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 140. sharedBuffer is 200.
+reader on iteration 166. sharedBuffer is 200.
+readerCount is -11.
+readerCount is -11.
+reader on iteration 141. sharedBuffer is 200.
+reader on iteration 167. sharedBuffer is 200.
+readerCount is -11.
+reader on iteration 142. sharedBuffer is 200.
+readerCount is -11.
+readerCount is -12.
+reader on iteration 168. sharedBuffer is 200.
+reader on iteration 143. sharedBuffer is 200.
+readerCount is -11.
+readerCount is -12.
+reader on iteration 169. sharedBuffer is 200.
+readerCount is -12.
+reader on iteration 170. sharedBuffer is 200.
+readerCount is -12.
+reader on iteration 171. sharedBuffer is 200.
+readerCount is -12.
+reader on iteration 172. sharedBuffer is 200.
+readerCount is -12.
+reader on iteration 173. sharedBuffer is 200.
+readerCount is -12.
+reader on iteration 174. sharedBuffer is 200.
+readerCount is -12.
+reader on iteration 144. sharedBuffer is 200.
+reader on iteration 175. sharedBuffer is 200.
+readerCount is -12.
+reader on iteration 145. sharedBuffer is 200.
+readerCount is -12.
+readerCount is -13.
+reader on iteration 146. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 147. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 148. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 149. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 150. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 151. sharedBuffer is 200.
+reader on iteration 176. sharedBuffer is 200.
+readerCount is -13.
+readerCount is -14.
+reader on iteration 152. sharedBuffer is 200.
+reader on iteration 177. sharedBuffer is 200.
+readerCount is -13.
+readerCount is -14.
+reader on iteration 153. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 178. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 179. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 180. sharedBuffer is 200.
+reader on iteration 154. sharedBuffer is 200.
+readerCount is -13.
+readerCount is -14.
+reader on iteration 155. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 181. sharedBuffer is 200.
+reader on iteration 156. sharedBuffer is 200.
+readerCount is -13.
+readerCount is -14.
+reader on iteration 182. sharedBuffer is 200.
+reader on iteration 157. sharedBuffer is 200.
+readerCount is -13.
+readerCount is -14.
+reader on iteration 183. sharedBuffer is 200.
+reader on iteration 158. sharedBuffer is 200.
+readerCount is -13.
+readerCount is -14.
+reader on iteration 159. sharedBuffer is 200.
+reader on iteration 184. sharedBuffer is 200.
+readerCount is -13.
+reader on iteration 160. sharedBuffer is 200.
+readerCount is -13.
+readerCount is -14.
+reader on iteration 161. sharedBuffer is 200.
+readerCount is -14.
+reader on iteration 162. sharedBuffer is 200.
+readerCount is -14.
+reader on iteration 163. sharedBuffer is 200.
+readerCount is -14.
+reader on iteration 164. sharedBuffer is 200.
+readerCount is -14.
+reader on iteration 165. sharedBuffer is 200.
+reader on iteration 185. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 186. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 187. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 188. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 189. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 190. sharedBuffer is 200.
+readerCount is -15.
+readerCount is -14.
+reader on iteration 191. sharedBuffer is 200.
+reader on iteration 166. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 167. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 168. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 169. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 170. sharedBuffer is 200.
+readerCount is -15.
+readerCount is -14.
+reader on iteration 171. sharedBuffer is 200.
+reader on iteration 192. sharedBuffer is 200.
+readerCount is -14.
+readerCount is -15.
+reader on iteration 172. sharedBuffer is 200.
+reader on iteration 193. sharedBuffer is 200.
+readerCount is -14.
+readerCount is -15.
+reader on iteration 173. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 174. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 175. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 176. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 177. sharedBuffer is 200.
+readerCount is -15.
+reader on iteration 178. sharedBuffer is 200.
+reader on iteration 194. sharedBuffer is 200.
+readerCount is -15.
+readerCount is -16.
+reader on iteration 179. sharedBuffer is 200.
+reader on iteration 195. sharedBuffer is 200.
+readerCount is -15.
+readerCount is -16.
+reader on iteration 180. sharedBuffer is 200.
+readerCount is -16.
+reader on iteration 181. sharedBuffer is 200.
+readerCount is -16.
+reader on iteration 182. sharedBuffer is 200.
+readerCount is -16.
+reader on iteration 183. sharedBuffer is 200.
+readerCount is -16.
+reader on iteration 184. sharedBuffer is 200.
+readerCount is -16.
+reader on iteration 185. sharedBuffer is 200.
+readerCount is -16.
+reader on iteration 196. sharedBuffer is 200.
+reader on iteration 186. sharedBuffer is 200.
+readerCount is -16.
+readerCount is -17.
+reader on iteration 187. sharedBuffer is 200.
+reader on iteration 197. sharedBuffer is 200.
+readerCount is -16.
+readerCount is -17.
+reader on iteration 198. sharedBuffer is 200.
+reader on iteration 188. sharedBuffer is 200.
+readerCount is -16.
+readerCount is -17.
+reader on iteration 189. sharedBuffer is 200.
+reader on iteration 199. sharedBuffer is 200.
+readerCount is -16.
+readerCount is -17.
+reader on iteration 190. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 191. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 192. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 193. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 194. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 195. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 196. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 197. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 198. sharedBuffer is 200.
+readerCount is -17.
+reader on iteration 199. sharedBuffer is 200.
+readerCount is -17.
+reader 0 join.
+reader 1 join.
+reader 2 join.
+reader 3 join.
+reader 4 join.
