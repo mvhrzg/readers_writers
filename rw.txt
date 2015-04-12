@@ -1,1216 +1,2216 @@
-reader 0 created.
-reader 4 created.
-reader 1 created.
-reader 2 created.
-writer on iteration 0. sharedBuffer is 1.
-writer on iteration 1. sharedBuffer is 2.
-writer on iteration 2. sharedBuffer is 3.
-writer on iteration 3. sharedBuffer is 4.
-writer on iteration 4. sharedBuffer is 5.
-writer on iteration 5. sharedBuffer is 6.
-writer on iteration 6. sharedBuffer is 7.
-writer on iteration 7. sharedBuffer is 8.
-writer on iteration 8. sharedBuffer is 9.
-writer on iteration 9. sharedBuffer is 10.
-writer on iteration 10. sharedBuffer is 11.
-writer on iteration 11. sharedBuffer is 12.
-writer on iteration 12. sharedBuffer is 13.
-writer on iteration 13. sharedBuffer is 14.
-writer on iteration 14. sharedBuffer is 15.
-writer on iteration 15. sharedBuffer is 16.
-writer on iteration 16. sharedBuffer is 17.
-writer on iteration 17. sharedBuffer is 18.
-writer on iteration 18. sharedBuffer is 19.
-writer on iteration 19. sharedBuffer is 20.
-writer on iteration 20. sharedBuffer is 21.
-writer on iteration 21. sharedBuffer is 22.
-writer on iteration 22. sharedBuffer is 23.
-writer on iteration 23. sharedBuffer is 24.
-writer on iteration 24. sharedBuffer is 25.
-writer on iteration 25. sharedBuffer is 26.
-writer on iteration 26. sharedBuffer is 27.
-writer on iteration 27. sharedBuffer is 28.
-writer on iteration 28. sharedBuffer is 29.
-writer on iteration 29. sharedBuffer is 30.
-reader 3 created.
-writer on iteration 30. sharedBuffer is 31.
-writer on iteration 31. sharedBuffer is 32.
-writer on iteration 32. sharedBuffer is 33.
-writer on iteration 33. sharedBuffer is 34.
-writer on iteration 34. sharedBuffer is 35.
-writer on iteration 35. sharedBuffer is 36.
-writer on iteration 36. sharedBuffer is 37.
-writer on iteration 37. sharedBuffer is 38.
-writer on iteration 38. sharedBuffer is 39.
-writer on iteration 39. sharedBuffer is 40.
-reader 0 on iteration 0. sharedBuffer is 40.
-reader 0 on iteration 1. sharedBuffer is 40.
-reader 4 on iteration 0. sharedBuffer is 40.
-reader 1 on iteration 0. sharedBuffer is 40.
-reader 1 on iteration 1. sharedBuffer is 40.
-reader 2 on iteration 0. sharedBuffer is 40.
-reader 0 on iteration 2. sharedBuffer is 40.
-reader 2 on iteration 1. sharedBuffer is 40.
-reader 2 on iteration 2. sharedBuffer is 40.
-reader 4 on iteration 1. sharedBuffer is 40.
-reader 0 on iteration 3. sharedBuffer is 40.
-reader 3 on iteration 0. sharedBuffer is 40.
-reader 1 on iteration 2. sharedBuffer is 40.
-reader 0 on iteration 4. sharedBuffer is 40.
-reader 4 on iteration 2. sharedBuffer is 40.
-reader 0 on iteration 5. sharedBuffer is 40.
-reader 0 on iteration 6. sharedBuffer is 40.
-reader 0 on iteration 7. sharedBuffer is 40.
-reader 0 on iteration 8. sharedBuffer is 40.
-reader 0 on iteration 9. sharedBuffer is 40.
-reader 3 on iteration 1. sharedBuffer is 40.
-reader 0 on iteration 10. sharedBuffer is 40.
-reader 4 on iteration 3. sharedBuffer is 40.
-reader 0 on iteration 11. sharedBuffer is 40.
-reader 4 on iteration 4. sharedBuffer is 40.
-reader 1 on iteration 3. sharedBuffer is 40.
-reader 0 on iteration 12. sharedBuffer is 40.
-reader 2 on iteration 3. sharedBuffer is 40.
-reader 4 on iteration 5. sharedBuffer is 40.
-reader 3 on iteration 2. sharedBuffer is 40.
-reader 2 on iteration 4. sharedBuffer is 40.
-reader 2 on iteration 5. sharedBuffer is 40.
-reader 2 on iteration 6. sharedBuffer is 40.
-reader 2 on iteration 7. sharedBuffer is 40.
-reader 2 on iteration 8. sharedBuffer is 40.
-reader 1 on iteration 4. sharedBuffer is 40.
-reader 0 on iteration 13. sharedBuffer is 40.
-reader 3 on iteration 3. sharedBuffer is 40.
-reader 2 on iteration 9. sharedBuffer is 40.
-reader 3 on iteration 4. sharedBuffer is 40.
-reader 0 on iteration 14. sharedBuffer is 40.
-reader 0 on iteration 15. sharedBuffer is 40.
-reader 0 on iteration 16. sharedBuffer is 40.
-reader 0 on iteration 17. sharedBuffer is 40.
-reader 2 on iteration 10. sharedBuffer is 40.
-reader 1 on iteration 5. sharedBuffer is 40.
-reader 3 on iteration 5. sharedBuffer is 40.
-reader 1 on iteration 6. sharedBuffer is 40.
-reader 4 on iteration 6. sharedBuffer is 40.
-reader 2 on iteration 11. sharedBuffer is 40.
-reader 1 on iteration 7. sharedBuffer is 40.
-reader 1 on iteration 8. sharedBuffer is 40.
-reader 1 on iteration 9. sharedBuffer is 40.
-reader 1 on iteration 10. sharedBuffer is 40.
-reader 1 on iteration 11. sharedBuffer is 40.
-reader 1 on iteration 12. sharedBuffer is 40.
-reader 4 on iteration 7. sharedBuffer is 40.
-reader 4 on iteration 8. sharedBuffer is 40.
-reader 4 on iteration 9. sharedBuffer is 40.
-reader 4 on iteration 10. sharedBuffer is 40.
-reader 0 on iteration 18. sharedBuffer is 40.
-reader 4 on iteration 11. sharedBuffer is 40.
-reader 4 on iteration 12. sharedBuffer is 40.
-reader 4 on iteration 13. sharedBuffer is 40.
-reader 4 on iteration 14. sharedBuffer is 40.
-reader 4 on iteration 15. sharedBuffer is 40.
-reader 4 on iteration 16. sharedBuffer is 40.
-reader 4 on iteration 17. sharedBuffer is 40.
-reader 4 on iteration 18. sharedBuffer is 40.
-reader 4 on iteration 19. sharedBuffer is 40.
-reader 4 on iteration 20. sharedBuffer is 40.
-reader 4 on iteration 21. sharedBuffer is 40.
-reader 0 on iteration 19. sharedBuffer is 40.
-reader 0 on iteration 20. sharedBuffer is 40.
-reader 0 on iteration 21. sharedBuffer is 40.
-reader 0 on iteration 22. sharedBuffer is 40.
-reader 0 on iteration 23. sharedBuffer is 40.
-reader 0 on iteration 24. sharedBuffer is 40.
-reader 0 on iteration 25. sharedBuffer is 40.
-reader 0 on iteration 26. sharedBuffer is 40.
-reader 1 on iteration 13. sharedBuffer is 40.
-reader 3 on iteration 6. sharedBuffer is 40.
-reader 4 on iteration 22. sharedBuffer is 40.
-reader 1 on iteration 14. sharedBuffer is 40.
-reader 1 on iteration 15. sharedBuffer is 40.
-reader 1 on iteration 16. sharedBuffer is 40.
-reader 1 on iteration 17. sharedBuffer is 40.
-reader 2 on iteration 12. sharedBuffer is 40.
-reader 0 on iteration 27. sharedBuffer is 40.
-reader 2 on iteration 13. sharedBuffer is 40.
-reader 2 on iteration 14. sharedBuffer is 40.
-reader 0 on iteration 28. sharedBuffer is 40.
-reader 2 on iteration 15. sharedBuffer is 40.
-reader 1 on iteration 18. sharedBuffer is 40.
-reader 0 on iteration 29. sharedBuffer is 40.
-reader 1 on iteration 19. sharedBuffer is 40.
-reader 4 on iteration 23. sharedBuffer is 40.
-reader 3 on iteration 7. sharedBuffer is 40.
-reader 1 on iteration 20. sharedBuffer is 40.
-reader 2 on iteration 16. sharedBuffer is 40.
-reader 4 on iteration 24. sharedBuffer is 40.
-reader 2 on iteration 17. sharedBuffer is 40.
-reader 1 on iteration 21. sharedBuffer is 40.
-reader 3 on iteration 8. sharedBuffer is 40.
-reader 0 on iteration 30. sharedBuffer is 40.
-reader 2 on iteration 18. sharedBuffer is 40.
-reader 1 on iteration 22. sharedBuffer is 40.
-reader 4 on iteration 25. sharedBuffer is 40.
-reader 3 on iteration 9. sharedBuffer is 40.
-reader 1 on iteration 23. sharedBuffer is 40.
-reader 0 on iteration 31. sharedBuffer is 40.
-reader 4 on iteration 26. sharedBuffer is 40.
-reader 4 on iteration 27. sharedBuffer is 40.
-reader 4 on iteration 28. sharedBuffer is 40.
-reader 4 on iteration 29. sharedBuffer is 40.
-reader 0 on iteration 32. sharedBuffer is 40.
-reader 2 on iteration 19. sharedBuffer is 40.
-reader 3 on iteration 10. sharedBuffer is 40.
-reader 0 on iteration 33. sharedBuffer is 40.
-reader 2 on iteration 20. sharedBuffer is 40.
-reader 0 on iteration 34. sharedBuffer is 40.
-reader 4 on iteration 30. sharedBuffer is 40.
-reader 3 on iteration 11. sharedBuffer is 40.
-reader 4 on iteration 31. sharedBuffer is 40.
-reader 4 on iteration 32. sharedBuffer is 40.
-reader 0 on iteration 35. sharedBuffer is 40.
-reader 2 on iteration 21. sharedBuffer is 40.
-reader 3 on iteration 12. sharedBuffer is 40.
-reader 0 on iteration 36. sharedBuffer is 40.
-reader 2 on iteration 22. sharedBuffer is 40.
-reader 4 on iteration 33. sharedBuffer is 40.
-reader 3 on iteration 13. sharedBuffer is 40.
-reader 2 on iteration 23. sharedBuffer is 40.
-reader 4 on iteration 34. sharedBuffer is 40.
-reader 2 on iteration 24. sharedBuffer is 40.
-reader 0 on iteration 37. sharedBuffer is 40.
-reader 4 on iteration 35. sharedBuffer is 40.
-reader 4 on iteration 36. sharedBuffer is 40.
-reader 1 on iteration 24. sharedBuffer is 40.
-reader 0 on iteration 38. sharedBuffer is 40.
-reader 0 on iteration 39. sharedBuffer is 40.
-reader 0 on iteration 40. sharedBuffer is 40.
-reader 0 on iteration 41. sharedBuffer is 40.
-reader 0 on iteration 42. sharedBuffer is 40.
-reader 2 on iteration 25. sharedBuffer is 40.
-reader 0 on iteration 43. sharedBuffer is 40.
-reader 0 on iteration 44. sharedBuffer is 40.
-reader 0 on iteration 45. sharedBuffer is 40.
-reader 0 on iteration 46. sharedBuffer is 40.
-reader 0 on iteration 47. sharedBuffer is 40.
-reader 2 on iteration 26. sharedBuffer is 40.
-reader 4 on iteration 37. sharedBuffer is 40.
-reader 2 on iteration 27. sharedBuffer is 40.
-reader 1 on iteration 25. sharedBuffer is 40.
-reader 4 on iteration 38. sharedBuffer is 40.
-reader 1 on iteration 26. sharedBuffer is 40.
-reader 0 on iteration 48. sharedBuffer is 40.
-reader 2 on iteration 28. sharedBuffer is 40.
-reader 0 on iteration 49. sharedBuffer is 40.
-reader 0 on iteration 50. sharedBuffer is 40.
-reader 0 on iteration 51. sharedBuffer is 40.
-reader 0 on iteration 52. sharedBuffer is 40.
-reader 4 on iteration 39. sharedBuffer is 40.
-reader 2 on iteration 29. sharedBuffer is 40.
-reader 1 on iteration 27. sharedBuffer is 40.
-reader 3 on iteration 14. sharedBuffer is 40.
-reader 4 on iteration 40. sharedBuffer is 40.
-reader 3 on iteration 15. sharedBuffer is 40.
-reader 3 on iteration 16. sharedBuffer is 40.
-reader 2 on iteration 30. sharedBuffer is 40.
-reader 0 on iteration 53. sharedBuffer is 40.
-reader 3 on iteration 17. sharedBuffer is 40.
-reader 1 on iteration 28. sharedBuffer is 40.
-reader 4 on iteration 41. sharedBuffer is 40.
-reader 0 on iteration 54. sharedBuffer is 40.
-reader 1 on iteration 29. sharedBuffer is 40.
-reader 3 on iteration 18. sharedBuffer is 40.
-reader 3 on iteration 19. sharedBuffer is 40.
-reader 4 on iteration 42. sharedBuffer is 40.
-reader 0 on iteration 55. sharedBuffer is 40.
-reader 2 on iteration 31. sharedBuffer is 40.
-reader 3 on iteration 20. sharedBuffer is 40.
-reader 0 on iteration 56. sharedBuffer is 40.
-reader 4 on iteration 43. sharedBuffer is 40.
-reader 4 on iteration 44. sharedBuffer is 40.
-reader 4 on iteration 45. sharedBuffer is 40.
-reader 0 on iteration 57. sharedBuffer is 40.
-reader 1 on iteration 30. sharedBuffer is 40.
-reader 3 on iteration 21. sharedBuffer is 40.
-reader 1 on iteration 31. sharedBuffer is 40.
-reader 0 on iteration 58. sharedBuffer is 40.
-reader 4 on iteration 46. sharedBuffer is 40.
-reader 3 on iteration 22. sharedBuffer is 40.
-reader 0 on iteration 59. sharedBuffer is 40.
-reader 4 on iteration 47. sharedBuffer is 40.
-reader 3 on iteration 23. sharedBuffer is 40.
-reader 1 on iteration 32. sharedBuffer is 40.
-reader 0 on iteration 60. sharedBuffer is 40.
-reader 3 on iteration 24. sharedBuffer is 40.
-reader 2 on iteration 32. sharedBuffer is 40.
-reader 0 on iteration 61. sharedBuffer is 40.
-reader 3 on iteration 25. sharedBuffer is 40.
-reader 0 on iteration 62. sharedBuffer is 40.
-reader 4 on iteration 48. sharedBuffer is 40.
-reader 0 on iteration 63. sharedBuffer is 40.
-reader 4 on iteration 49. sharedBuffer is 40.
-reader 3 on iteration 26. sharedBuffer is 40.
-reader 1 on iteration 33. sharedBuffer is 40.
-reader 0 on iteration 64. sharedBuffer is 40.
-reader 1 on iteration 34. sharedBuffer is 40.
-reader 2 on iteration 33. sharedBuffer is 40.
-reader 3 on iteration 27. sharedBuffer is 40.
-reader 2 on iteration 34. sharedBuffer is 40.
-reader 4 on iteration 50. sharedBuffer is 40.
-reader 1 on iteration 35. sharedBuffer is 40.
-reader 2 on iteration 35. sharedBuffer is 40.
-reader 4 on iteration 51. sharedBuffer is 40.
-reader 1 on iteration 36. sharedBuffer is 40.
-reader 4 on iteration 52. sharedBuffer is 40.
-reader 4 on iteration 53. sharedBuffer is 40.
-reader 4 on iteration 54. sharedBuffer is 40.
-reader 1 on iteration 37. sharedBuffer is 40.
-reader 3 on iteration 28. sharedBuffer is 40.
-reader 2 on iteration 36. sharedBuffer is 40.
-reader 4 on iteration 55. sharedBuffer is 40.
-reader 3 on iteration 29. sharedBuffer is 40.
-reader 2 on iteration 37. sharedBuffer is 40.
-reader 4 on iteration 56. sharedBuffer is 40.
-reader 1 on iteration 38. sharedBuffer is 40.
-reader 1 on iteration 39. sharedBuffer is 40.
-reader 1 on iteration 40. sharedBuffer is 40.
-reader 1 on iteration 41. sharedBuffer is 40.
-reader 1 on iteration 42. sharedBuffer is 40.
-reader 2 on iteration 38. sharedBuffer is 40.
-reader 2 on iteration 39. sharedBuffer is 40.
-reader 2 on iteration 40. sharedBuffer is 40.
-reader 2 on iteration 41. sharedBuffer is 40.
-reader 2 on iteration 42. sharedBuffer is 40.
-reader 2 on iteration 43. sharedBuffer is 40.
-reader 2 on iteration 44. sharedBuffer is 40.
-reader 2 on iteration 45. sharedBuffer is 40.
-reader 2 on iteration 46. sharedBuffer is 40.
-reader 2 on iteration 47. sharedBuffer is 40.
-reader 4 on iteration 57. sharedBuffer is 40.
-reader 2 on iteration 48. sharedBuffer is 40.
-reader 2 on iteration 49. sharedBuffer is 40.
-reader 2 on iteration 50. sharedBuffer is 40.
-reader 2 on iteration 51. sharedBuffer is 40.
-reader 2 on iteration 52. sharedBuffer is 40.
-reader 0 on iteration 65. sharedBuffer is 40.
-reader 2 on iteration 53. sharedBuffer is 40.
-reader 3 on iteration 30. sharedBuffer is 40.
-reader 4 on iteration 58. sharedBuffer is 40.
-reader 1 on iteration 43. sharedBuffer is 40.
-reader 3 on iteration 31. sharedBuffer is 40.
-reader 4 on iteration 59. sharedBuffer is 40.
-reader 0 on iteration 66. sharedBuffer is 40.
-reader 3 on iteration 32. sharedBuffer is 40.
-reader 2 on iteration 54. sharedBuffer is 40.
-reader 4 on iteration 60. sharedBuffer is 40.
-reader 3 on iteration 33. sharedBuffer is 40.
-reader 4 on iteration 61. sharedBuffer is 40.
-reader 1 on iteration 44. sharedBuffer is 40.
-reader 0 on iteration 67. sharedBuffer is 40.
-reader 0 on iteration 68. sharedBuffer is 40.
-reader 0 on iteration 69. sharedBuffer is 40.
-reader 0 on iteration 70. sharedBuffer is 40.
-reader 0 on iteration 71. sharedBuffer is 40.
-reader 4 on iteration 62. sharedBuffer is 40.
-reader 2 on iteration 55. sharedBuffer is 40.
-reader 0 on iteration 72. sharedBuffer is 40.
-reader 2 on iteration 56. sharedBuffer is 40.
-reader 3 on iteration 34. sharedBuffer is 40.
-reader 4 on iteration 63. sharedBuffer is 40.
-reader 2 on iteration 57. sharedBuffer is 40.
-reader 1 on iteration 45. sharedBuffer is 40.
-reader 3 on iteration 35. sharedBuffer is 40.
-reader 4 on iteration 64. sharedBuffer is 40.
-reader 0 on iteration 73. sharedBuffer is 40.
-reader 1 on iteration 46. sharedBuffer is 40.
-reader 0 on iteration 74. sharedBuffer is 40.
-reader 4 on iteration 65. sharedBuffer is 40.
-reader 0 on iteration 75. sharedBuffer is 40.
-reader 3 on iteration 36. sharedBuffer is 40.
-reader 4 on iteration 66. sharedBuffer is 40.
-reader 4 on iteration 67. sharedBuffer is 40.
-reader 2 on iteration 58. sharedBuffer is 40.
-reader 0 on iteration 76. sharedBuffer is 40.
-reader 3 on iteration 37. sharedBuffer is 40.
-reader 1 on iteration 47. sharedBuffer is 40.
-reader 0 on iteration 77. sharedBuffer is 40.
-reader 1 on iteration 48. sharedBuffer is 40.
-reader 2 on iteration 59. sharedBuffer is 40.
-reader 0 on iteration 78. sharedBuffer is 40.
-reader 0 on iteration 79. sharedBuffer is 40.
-reader 0 on iteration 80. sharedBuffer is 40.
-reader 0 on iteration 81. sharedBuffer is 40.
-reader 3 on iteration 38. sharedBuffer is 40.
-reader 1 on iteration 49. sharedBuffer is 40.
-reader 4 on iteration 68. sharedBuffer is 40.
-reader 1 on iteration 50. sharedBuffer is 40.
-reader 1 on iteration 51. sharedBuffer is 40.
-reader 1 on iteration 52. sharedBuffer is 40.
-reader 4 on iteration 69. sharedBuffer is 40.
-reader 0 on iteration 82. sharedBuffer is 40.
-reader 1 on iteration 53. sharedBuffer is 40.
-reader 0 on iteration 83. sharedBuffer is 40.
-reader 1 on iteration 54. sharedBuffer is 40.
-reader 1 on iteration 55. sharedBuffer is 40.
-reader 4 on iteration 70. sharedBuffer is 40.
-reader 3 on iteration 39. sharedBuffer is 40.
-reader 1 on iteration 56. sharedBuffer is 40.
-reader 1 on iteration 57. sharedBuffer is 40.
-reader 1 on iteration 58. sharedBuffer is 40.
-reader 4 on iteration 71. sharedBuffer is 40.
-reader 0 on iteration 84. sharedBuffer is 40.
-reader 1 on iteration 59. sharedBuffer is 40.
-reader 1 on iteration 60. sharedBuffer is 40.
-reader 1 on iteration 61. sharedBuffer is 40.
-reader 1 on iteration 62. sharedBuffer is 40.
-reader 1 on iteration 63. sharedBuffer is 40.
-reader 1 on iteration 64. sharedBuffer is 40.
-reader 1 on iteration 65. sharedBuffer is 40.
-reader 2 on iteration 60. sharedBuffer is 40.
-reader 1 on iteration 66. sharedBuffer is 40.
-reader 1 on iteration 67. sharedBuffer is 40.
-reader 2 on iteration 61. sharedBuffer is 40.
-reader 1 on iteration 68. sharedBuffer is 40.
-reader 0 on iteration 85. sharedBuffer is 40.
-reader 3 on iteration 40. sharedBuffer is 40.
-reader 1 on iteration 69. sharedBuffer is 40.
-reader 1 on iteration 70. sharedBuffer is 40.
-reader 4 on iteration 72. sharedBuffer is 40.
-reader 2 on iteration 62. sharedBuffer is 40.
-reader 3 on iteration 41. sharedBuffer is 40.
-reader 2 on iteration 63. sharedBuffer is 40.
-reader 1 on iteration 71. sharedBuffer is 40.
-reader 2 on iteration 64. sharedBuffer is 40.
-reader 2 on iteration 65. sharedBuffer is 40.
-reader 3 on iteration 42. sharedBuffer is 40.
-reader 2 on iteration 66. sharedBuffer is 40.
-reader 1 on iteration 72. sharedBuffer is 40.
-reader 0 on iteration 86. sharedBuffer is 40.
-reader 4 on iteration 73. sharedBuffer is 40.
-reader 1 on iteration 73. sharedBuffer is 40.
-reader 1 on iteration 74. sharedBuffer is 40.
-reader 3 on iteration 43. sharedBuffer is 40.
-reader 0 on iteration 87. sharedBuffer is 40.
-reader 2 on iteration 67. sharedBuffer is 40.
-reader 3 on iteration 44. sharedBuffer is 40.
-reader 0 on iteration 88. sharedBuffer is 40.
-reader 3 on iteration 45. sharedBuffer is 40.
-reader 0 on iteration 89. sharedBuffer is 40.
-reader 4 on iteration 74. sharedBuffer is 40.
-reader 3 on iteration 46. sharedBuffer is 40.
-reader 3 on iteration 47. sharedBuffer is 40.
-reader 3 on iteration 48. sharedBuffer is 40.
-reader 0 on iteration 90. sharedBuffer is 40.
-reader 4 on iteration 75. sharedBuffer is 40.
-reader 1 on iteration 75. sharedBuffer is 40.
-reader 0 on iteration 91. sharedBuffer is 40.
-reader 0 on iteration 92. sharedBuffer is 40.
-reader 0 on iteration 93. sharedBuffer is 40.
-reader 0 on iteration 94. sharedBuffer is 40.
-reader 0 on iteration 95. sharedBuffer is 40.
-reader 2 on iteration 68. sharedBuffer is 40.
-reader 3 on iteration 49. sharedBuffer is 40.
-reader 0 on iteration 96. sharedBuffer is 40.
-reader 4 on iteration 76. sharedBuffer is 40.
-reader 2 on iteration 69. sharedBuffer is 40.
-reader 1 on iteration 76. sharedBuffer is 40.
-reader 1 on iteration 77. sharedBuffer is 40.
-reader 1 on iteration 78. sharedBuffer is 40.
-reader 2 on iteration 70. sharedBuffer is 40.
-reader 3 on iteration 50. sharedBuffer is 40.
-reader 4 on iteration 77. sharedBuffer is 40.
-reader 0 on iteration 97. sharedBuffer is 40.
-reader 3 on iteration 51. sharedBuffer is 40.
-reader 1 on iteration 79. sharedBuffer is 40.
-reader 2 on iteration 71. sharedBuffer is 40.
-reader 0 on iteration 98. sharedBuffer is 40.
-reader 2 on iteration 72. sharedBuffer is 40.
-reader 1 on iteration 80. sharedBuffer is 40.
-reader 4 on iteration 78. sharedBuffer is 40.
-reader 3 on iteration 52. sharedBuffer is 40.
-reader 0 on iteration 99. sharedBuffer is 40.
-reader 3 on iteration 53. sharedBuffer is 40.
-reader 2 on iteration 73. sharedBuffer is 40.
-reader 3 on iteration 54. sharedBuffer is 40.
-reader 3 on iteration 55. sharedBuffer is 40.
-reader 3 on iteration 56. sharedBuffer is 40.
-reader 2 on iteration 74. sharedBuffer is 40.
-reader 1 on iteration 81. sharedBuffer is 40.
-reader 4 on iteration 79. sharedBuffer is 40.
-reader 2 on iteration 75. sharedBuffer is 40.
-reader 4 on iteration 80. sharedBuffer is 40.
-reader 3 on iteration 57. sharedBuffer is 40.
-reader 0 on iteration 100. sharedBuffer is 40.
-reader 3 on iteration 58. sharedBuffer is 40.
-reader 1 on iteration 82. sharedBuffer is 40.
-reader 4 on iteration 81. sharedBuffer is 40.
-reader 3 on iteration 59. sharedBuffer is 40.
-reader 1 on iteration 83. sharedBuffer is 40.
-reader 3 on iteration 60. sharedBuffer is 40.
-reader 0 on iteration 101. sharedBuffer is 40.
-reader 1 on iteration 84. sharedBuffer is 40.
-reader 1 on iteration 85. sharedBuffer is 40.
-reader 1 on iteration 86. sharedBuffer is 40.
-reader 1 on iteration 87. sharedBuffer is 40.
-reader 1 on iteration 88. sharedBuffer is 40.
-reader 1 on iteration 89. sharedBuffer is 40.
-reader 2 on iteration 76. sharedBuffer is 40.
-reader 1 on iteration 90. sharedBuffer is 40.
-reader 1 on iteration 91. sharedBuffer is 40.
-reader 1 on iteration 92. sharedBuffer is 40.
-reader 1 on iteration 93. sharedBuffer is 40.
-reader 2 on iteration 77. sharedBuffer is 40.
-reader 3 on iteration 61. sharedBuffer is 40.
-reader 0 on iteration 102. sharedBuffer is 40.
-reader 2 on iteration 78. sharedBuffer is 40.
-reader 2 on iteration 79. sharedBuffer is 40.
-reader 2 on iteration 80. sharedBuffer is 40.
-reader 2 on iteration 81. sharedBuffer is 40.
-reader 2 on iteration 82. sharedBuffer is 40.
-reader 3 on iteration 62. sharedBuffer is 40.
-reader 4 on iteration 82. sharedBuffer is 40.
-reader 1 on iteration 94. sharedBuffer is 40.
-reader 2 on iteration 83. sharedBuffer is 40.
-reader 4 on iteration 83. sharedBuffer is 40.
-reader 1 on iteration 95. sharedBuffer is 40.
-reader 0 on iteration 103. sharedBuffer is 40.
-reader 0 on iteration 104. sharedBuffer is 40.
-reader 0 on iteration 105. sharedBuffer is 40.
-reader 0 on iteration 106. sharedBuffer is 40.
-reader 2 on iteration 84. sharedBuffer is 40.
-reader 4 on iteration 84. sharedBuffer is 40.
-reader 3 on iteration 63. sharedBuffer is 40.
-reader 2 on iteration 85. sharedBuffer is 40.
-reader 1 on iteration 96. sharedBuffer is 40.
-reader 2 on iteration 86. sharedBuffer is 40.
-reader 1 on iteration 97. sharedBuffer is 40.
-reader 0 on iteration 107. sharedBuffer is 40.
-reader 2 on iteration 87. sharedBuffer is 40.
-reader 3 on iteration 64. sharedBuffer is 40.
-reader 0 on iteration 108. sharedBuffer is 40.
-reader 3 on iteration 65. sharedBuffer is 40.
-reader 1 on iteration 98. sharedBuffer is 40.
-reader 0 on iteration 109. sharedBuffer is 40.
-reader 1 on iteration 99. sharedBuffer is 40.
-reader 2 on iteration 88. sharedBuffer is 40.
-reader 3 on iteration 66. sharedBuffer is 40.
-reader 1 on iteration 100. sharedBuffer is 40.
-reader 4 on iteration 85. sharedBuffer is 40.
-reader 3 on iteration 67. sharedBuffer is 40.
-reader 1 on iteration 101. sharedBuffer is 40.
-reader 3 on iteration 68. sharedBuffer is 40.
-reader 2 on iteration 89. sharedBuffer is 40.
-reader 1 on iteration 102. sharedBuffer is 40.
-reader 1 on iteration 103. sharedBuffer is 40.
-reader 4 on iteration 86. sharedBuffer is 40.
-reader 0 on iteration 110. sharedBuffer is 40.
-reader 3 on iteration 69. sharedBuffer is 40.
-reader 0 on iteration 111. sharedBuffer is 40.
-reader 3 on iteration 70. sharedBuffer is 40.
-reader 1 on iteration 104. sharedBuffer is 40.
-reader 4 on iteration 87. sharedBuffer is 40.
-reader 0 on iteration 112. sharedBuffer is 40.
-reader 2 on iteration 90. sharedBuffer is 40.
-reader 3 on iteration 71. sharedBuffer is 40.
-reader 4 on iteration 88. sharedBuffer is 40.
-reader 3 on iteration 72. sharedBuffer is 40.
-reader 1 on iteration 105. sharedBuffer is 40.
-reader 4 on iteration 89. sharedBuffer is 40.
-reader 0 on iteration 113. sharedBuffer is 40.
-reader 2 on iteration 91. sharedBuffer is 40.
-reader 1 on iteration 106. sharedBuffer is 40.
-reader 3 on iteration 73. sharedBuffer is 40.
-reader 0 on iteration 114. sharedBuffer is 40.
-reader 4 on iteration 90. sharedBuffer is 40.
-reader 1 on iteration 107. sharedBuffer is 40.
-reader 4 on iteration 91. sharedBuffer is 40.
-reader 1 on iteration 108. sharedBuffer is 40.
-reader 3 on iteration 74. sharedBuffer is 40.
-reader 0 on iteration 115. sharedBuffer is 40.
-reader 4 on iteration 92. sharedBuffer is 40.
-reader 0 on iteration 116. sharedBuffer is 40.
-reader 2 on iteration 92. sharedBuffer is 40.
-reader 3 on iteration 75. sharedBuffer is 40.
-reader 0 on iteration 117. sharedBuffer is 40.
-reader 2 on iteration 93. sharedBuffer is 40.
-reader 4 on iteration 93. sharedBuffer is 40.
-reader 3 on iteration 76. sharedBuffer is 40.
-reader 2 on iteration 94. sharedBuffer is 40.
-reader 3 on iteration 77. sharedBuffer is 40.
-reader 3 on iteration 78. sharedBuffer is 40.
-reader 3 on iteration 79. sharedBuffer is 40.
-reader 3 on iteration 80. sharedBuffer is 40.
-reader 3 on iteration 81. sharedBuffer is 40.
-reader 3 on iteration 82. sharedBuffer is 40.
-reader 3 on iteration 83. sharedBuffer is 40.
-reader 4 on iteration 94. sharedBuffer is 40.
-reader 3 on iteration 84. sharedBuffer is 40.
-reader 3 on iteration 85. sharedBuffer is 40.
-reader 3 on iteration 86. sharedBuffer is 40.
-reader 3 on iteration 87. sharedBuffer is 40.
-reader 3 on iteration 88. sharedBuffer is 40.
-reader 3 on iteration 89. sharedBuffer is 40.
-reader 4 on iteration 95. sharedBuffer is 40.
-reader 2 on iteration 95. sharedBuffer is 40.
-reader 3 on iteration 90. sharedBuffer is 40.
-reader 0 on iteration 118. sharedBuffer is 40.
-reader 1 on iteration 109. sharedBuffer is 40.
-reader 3 on iteration 91. sharedBuffer is 40.
-reader 3 on iteration 92. sharedBuffer is 40.
-reader 3 on iteration 93. sharedBuffer is 40.
-reader 3 on iteration 94. sharedBuffer is 40.
-reader 4 on iteration 96. sharedBuffer is 40.
-reader 2 on iteration 96. sharedBuffer is 40.
-reader 1 on iteration 110. sharedBuffer is 40.
-reader 4 on iteration 97. sharedBuffer is 40.
-reader 1 on iteration 111. sharedBuffer is 40.
-reader 4 on iteration 98. sharedBuffer is 40.
-reader 1 on iteration 112. sharedBuffer is 40.
-reader 4 on iteration 99. sharedBuffer is 40.
-reader 1 on iteration 113. sharedBuffer is 40.
-reader 3 on iteration 95. sharedBuffer is 40.
-reader 4 on iteration 100. sharedBuffer is 40.
-reader 4 on iteration 101. sharedBuffer is 40.
-reader 4 on iteration 102. sharedBuffer is 40.
-reader 0 on iteration 119. sharedBuffer is 40.
-reader 4 on iteration 103. sharedBuffer is 40.
-reader 4 on iteration 104. sharedBuffer is 40.
-reader 1 on iteration 114. sharedBuffer is 40.
-reader 3 on iteration 96. sharedBuffer is 40.
-reader 0 on iteration 120. sharedBuffer is 40.
-reader 1 on iteration 115. sharedBuffer is 40.
-reader 2 on iteration 97. sharedBuffer is 40.
-reader 0 on iteration 121. sharedBuffer is 40.
-reader 4 on iteration 105. sharedBuffer is 40.
-reader 2 on iteration 98. sharedBuffer is 40.
-reader 3 on iteration 97. sharedBuffer is 40.
-reader 0 on iteration 122. sharedBuffer is 40.
-reader 4 on iteration 106. sharedBuffer is 40.
-reader 1 on iteration 116. sharedBuffer is 40.
-reader 2 on iteration 99. sharedBuffer is 40.
-reader 4 on iteration 107. sharedBuffer is 40.
-reader 0 on iteration 123. sharedBuffer is 40.
-reader 1 on iteration 117. sharedBuffer is 40.
-reader 4 on iteration 108. sharedBuffer is 40.
-reader 1 on iteration 118. sharedBuffer is 40.
-reader 4 on iteration 109. sharedBuffer is 40.
-reader 1 on iteration 119. sharedBuffer is 40.
-reader 0 on iteration 124. sharedBuffer is 40.
-reader 4 on iteration 110. sharedBuffer is 40.
-reader 4 on iteration 111. sharedBuffer is 40.
-reader 4 on iteration 112. sharedBuffer is 40.
-reader 1 on iteration 120. sharedBuffer is 40.
-reader 0 on iteration 125. sharedBuffer is 40.
-reader 2 on iteration 100. sharedBuffer is 40.
-reader 4 on iteration 113. sharedBuffer is 40.
-reader 0 on iteration 126. sharedBuffer is 40.
-reader 3 on iteration 98. sharedBuffer is 40.
-reader 2 on iteration 101. sharedBuffer is 40.
-reader 0 on iteration 127. sharedBuffer is 40.
-reader 3 on iteration 99. sharedBuffer is 40.
-reader 0 on iteration 128. sharedBuffer is 40.
-reader 4 on iteration 114. sharedBuffer is 40.
-reader 2 on iteration 102. sharedBuffer is 40.
-reader 0 on iteration 129. sharedBuffer is 40.
-reader 4 on iteration 115. sharedBuffer is 40.
-reader 1 on iteration 121. sharedBuffer is 40.
-reader 3 on iteration 100. sharedBuffer is 40.
-reader 2 on iteration 103. sharedBuffer is 40.
-reader 4 on iteration 116. sharedBuffer is 40.
-reader 2 on iteration 104. sharedBuffer is 40.
-reader 0 on iteration 130. sharedBuffer is 40.
-reader 3 on iteration 101. sharedBuffer is 40.
-reader 0 on iteration 131. sharedBuffer is 40.
-reader 1 on iteration 122. sharedBuffer is 40.
-reader 2 on iteration 105. sharedBuffer is 40.
-reader 0 on iteration 132. sharedBuffer is 40.
-reader 1 on iteration 123. sharedBuffer is 40.
-reader 0 on iteration 133. sharedBuffer is 40.
-reader 0 on iteration 134. sharedBuffer is 40.
-reader 0 on iteration 135. sharedBuffer is 40.
-reader 0 on iteration 136. sharedBuffer is 40.
-reader 0 on iteration 137. sharedBuffer is 40.
-reader 0 on iteration 138. sharedBuffer is 40.
-reader 0 on iteration 139. sharedBuffer is 40.
-reader 4 on iteration 117. sharedBuffer is 40.
-reader 0 on iteration 140. sharedBuffer is 40.
-reader 0 on iteration 141. sharedBuffer is 40.
-reader 0 on iteration 142. sharedBuffer is 40.
-reader 3 on iteration 102. sharedBuffer is 40.
-reader 1 on iteration 124. sharedBuffer is 40.
-reader 4 on iteration 118. sharedBuffer is 40.
-reader 1 on iteration 125. sharedBuffer is 40.
-reader 0 on iteration 143. sharedBuffer is 40.
-reader 0 on iteration 144. sharedBuffer is 40.
-reader 0 on iteration 145. sharedBuffer is 40.
-reader 0 on iteration 146. sharedBuffer is 40.
-reader 4 on iteration 119. sharedBuffer is 40.
-reader 2 on iteration 106. sharedBuffer is 40.
-reader 1 on iteration 126. sharedBuffer is 40.
-reader 2 on iteration 107. sharedBuffer is 40.
-reader 3 on iteration 103. sharedBuffer is 40.
-reader 4 on iteration 120. sharedBuffer is 40.
-reader 2 on iteration 108. sharedBuffer is 40.
-reader 0 on iteration 147. sharedBuffer is 40.
-reader 3 on iteration 104. sharedBuffer is 40.
-reader 2 on iteration 109. sharedBuffer is 40.
-reader 0 on iteration 148. sharedBuffer is 40.
-reader 2 on iteration 110. sharedBuffer is 40.
-reader 4 on iteration 121. sharedBuffer is 40.
-reader 3 on iteration 105. sharedBuffer is 40.
-reader 2 on iteration 111. sharedBuffer is 40.
-reader 4 on iteration 122. sharedBuffer is 40.
-reader 3 on iteration 106. sharedBuffer is 40.
-reader 0 on iteration 149. sharedBuffer is 40.
-reader 2 on iteration 112. sharedBuffer is 40.
-reader 3 on iteration 107. sharedBuffer is 40.
-reader 2 on iteration 113. sharedBuffer is 40.
-reader 3 on iteration 108. sharedBuffer is 40.
-reader 3 on iteration 109. sharedBuffer is 40.
-reader 3 on iteration 110. sharedBuffer is 40.
-reader 4 on iteration 123. sharedBuffer is 40.
-reader 3 on iteration 111. sharedBuffer is 40.
-reader 0 on iteration 150. sharedBuffer is 40.
-reader 4 on iteration 124. sharedBuffer is 40.
-reader 4 on iteration 125. sharedBuffer is 40.
-reader 3 on iteration 112. sharedBuffer is 40.
-reader 4 on iteration 126. sharedBuffer is 40.
-reader 0 on iteration 151. sharedBuffer is 40.
-reader 1 on iteration 127. sharedBuffer is 40.
-reader 3 on iteration 113. sharedBuffer is 40.
-reader 1 on iteration 128. sharedBuffer is 40.
-reader 2 on iteration 114. sharedBuffer is 40.
-reader 4 on iteration 127. sharedBuffer is 40.
-reader 2 on iteration 115. sharedBuffer is 40.
-reader 2 on iteration 116. sharedBuffer is 40.
-reader 0 on iteration 152. sharedBuffer is 40.
-reader 3 on iteration 114. sharedBuffer is 40.
-reader 4 on iteration 128. sharedBuffer is 40.
-reader 0 on iteration 153. sharedBuffer is 40.
-reader 1 on iteration 129. sharedBuffer is 40.
-reader 3 on iteration 115. sharedBuffer is 40.
-reader 4 on iteration 129. sharedBuffer is 40.
-reader 3 on iteration 116. sharedBuffer is 40.
-reader 4 on iteration 130. sharedBuffer is 40.
-reader 0 on iteration 154. sharedBuffer is 40.
-reader 2 on iteration 117. sharedBuffer is 40.
-reader 4 on iteration 131. sharedBuffer is 40.
-reader 1 on iteration 130. sharedBuffer is 40.
-reader 0 on iteration 155. sharedBuffer is 40.
-reader 4 on iteration 132. sharedBuffer is 40.
-reader 3 on iteration 117. sharedBuffer is 40.
-reader 1 on iteration 131. sharedBuffer is 40.
-reader 3 on iteration 118. sharedBuffer is 40.
-reader 2 on iteration 118. sharedBuffer is 40.
-reader 0 on iteration 156. sharedBuffer is 40.
-reader 1 on iteration 132. sharedBuffer is 40.
-reader 0 on iteration 157. sharedBuffer is 40.
-reader 0 on iteration 158. sharedBuffer is 40.
-reader 0 on iteration 159. sharedBuffer is 40.
-reader 4 on iteration 133. sharedBuffer is 40.
-reader 0 on iteration 160. sharedBuffer is 40.
-reader 1 on iteration 133. sharedBuffer is 40.
-reader 3 on iteration 119. sharedBuffer is 40.
-reader 2 on iteration 119. sharedBuffer is 40.
-reader 4 on iteration 134. sharedBuffer is 40.
-reader 4 on iteration 135. sharedBuffer is 40.
-reader 4 on iteration 136. sharedBuffer is 40.
-reader 4 on iteration 137. sharedBuffer is 40.
-reader 4 on iteration 138. sharedBuffer is 40.
-reader 4 on iteration 139. sharedBuffer is 40.
-reader 3 on iteration 120. sharedBuffer is 40.
-reader 3 on iteration 121. sharedBuffer is 40.
-reader 3 on iteration 122. sharedBuffer is 40.
-reader 3 on iteration 123. sharedBuffer is 40.
-reader 3 on iteration 124. sharedBuffer is 40.
-reader 3 on iteration 125. sharedBuffer is 40.
-reader 3 on iteration 126. sharedBuffer is 40.
-reader 0 on iteration 161. sharedBuffer is 40.
-reader 3 on iteration 127. sharedBuffer is 40.
-reader 3 on iteration 128. sharedBuffer is 40.
-reader 3 on iteration 129. sharedBuffer is 40.
-reader 3 on iteration 130. sharedBuffer is 40.
-reader 2 on iteration 120. sharedBuffer is 40.
-reader 3 on iteration 131. sharedBuffer is 40.
-reader 1 on iteration 134. sharedBuffer is 40.
-reader 2 on iteration 121. sharedBuffer is 40.
-reader 1 on iteration 135. sharedBuffer is 40.
-reader 4 on iteration 140. sharedBuffer is 40.
-reader 0 on iteration 162. sharedBuffer is 40.
-reader 1 on iteration 136. sharedBuffer is 40.
-reader 4 on iteration 141. sharedBuffer is 40.
-reader 3 on iteration 132. sharedBuffer is 40.
-reader 0 on iteration 163. sharedBuffer is 40.
-reader 3 on iteration 133. sharedBuffer is 40.
-reader 0 on iteration 164. sharedBuffer is 40.
-reader 2 on iteration 122. sharedBuffer is 40.
-reader 1 on iteration 137. sharedBuffer is 40.
-reader 0 on iteration 165. sharedBuffer is 40.
-reader 4 on iteration 142. sharedBuffer is 40.
-reader 2 on iteration 123. sharedBuffer is 40.
-reader 0 on iteration 166. sharedBuffer is 40.
-reader 2 on iteration 124. sharedBuffer is 40.
-reader 0 on iteration 167. sharedBuffer is 40.
-reader 3 on iteration 134. sharedBuffer is 40.
-reader 1 on iteration 138. sharedBuffer is 40.
-reader 2 on iteration 125. sharedBuffer is 40.
-reader 0 on iteration 168. sharedBuffer is 40.
-reader 3 on iteration 135. sharedBuffer is 40.
-reader 4 on iteration 143. sharedBuffer is 40.
-reader 3 on iteration 136. sharedBuffer is 40.
-reader 1 on iteration 139. sharedBuffer is 40.
-reader 2 on iteration 126. sharedBuffer is 40.
-reader 0 on iteration 169. sharedBuffer is 40.
-reader 1 on iteration 140. sharedBuffer is 40.
-reader 2 on iteration 127. sharedBuffer is 40.
-reader 0 on iteration 170. sharedBuffer is 40.
-reader 4 on iteration 144. sharedBuffer is 40.
-reader 0 on iteration 171. sharedBuffer is 40.
-reader 3 on iteration 137. sharedBuffer is 40.
-reader 1 on iteration 141. sharedBuffer is 40.
-reader 2 on iteration 128. sharedBuffer is 40.
-reader 0 on iteration 172. sharedBuffer is 40.
-reader 2 on iteration 129. sharedBuffer is 40.
-reader 4 on iteration 145. sharedBuffer is 40.
-reader 1 on iteration 142. sharedBuffer is 40.
-reader 2 on iteration 130. sharedBuffer is 40.
-reader 3 on iteration 138. sharedBuffer is 40.
-reader 1 on iteration 143. sharedBuffer is 40.
-reader 1 on iteration 144. sharedBuffer is 40.
-reader 0 on iteration 173. sharedBuffer is 40.
-reader 2 on iteration 131. sharedBuffer is 40.
-reader 4 on iteration 146. sharedBuffer is 40.
-reader 3 on iteration 139. sharedBuffer is 40.
-reader 2 on iteration 132. sharedBuffer is 40.
-reader 4 on iteration 147. sharedBuffer is 40.
-reader 1 on iteration 145. sharedBuffer is 40.
-reader 1 on iteration 146. sharedBuffer is 40.
-reader 1 on iteration 147. sharedBuffer is 40.
-reader 3 on iteration 140. sharedBuffer is 40.
-reader 0 on iteration 174. sharedBuffer is 40.
-reader 2 on iteration 133. sharedBuffer is 40.
-reader 4 on iteration 148. sharedBuffer is 40.
-reader 2 on iteration 134. sharedBuffer is 40.
-reader 0 on iteration 175. sharedBuffer is 40.
-reader 3 on iteration 141. sharedBuffer is 40.
-reader 4 on iteration 149. sharedBuffer is 40.
-reader 3 on iteration 142. sharedBuffer is 40.
-reader 1 on iteration 148. sharedBuffer is 40.
-reader 4 on iteration 150. sharedBuffer is 40.
-reader 4 on iteration 151. sharedBuffer is 40.
-reader 2 on iteration 135. sharedBuffer is 40.
-reader 1 on iteration 149. sharedBuffer is 40.
-reader 0 on iteration 176. sharedBuffer is 40.
-reader 0 on iteration 177. sharedBuffer is 40.
-reader 0 on iteration 178. sharedBuffer is 40.
-reader 0 on iteration 179. sharedBuffer is 40.
-reader 0 on iteration 180. sharedBuffer is 40.
-reader 2 on iteration 136. sharedBuffer is 40.
-reader 2 on iteration 137. sharedBuffer is 40.
-reader 2 on iteration 138. sharedBuffer is 40.
-reader 2 on iteration 139. sharedBuffer is 40.
-reader 2 on iteration 140. sharedBuffer is 40.
-reader 2 on iteration 141. sharedBuffer is 40.
-reader 3 on iteration 143. sharedBuffer is 40.
-reader 3 on iteration 144. sharedBuffer is 40.
-reader 3 on iteration 145. sharedBuffer is 40.
-reader 3 on iteration 146. sharedBuffer is 40.
-reader 3 on iteration 147. sharedBuffer is 40.
-reader 3 on iteration 148. sharedBuffer is 40.
-reader 3 on iteration 149. sharedBuffer is 40.
-reader 1 on iteration 150. sharedBuffer is 40.
-reader 3 on iteration 150. sharedBuffer is 40.
-reader 3 on iteration 151. sharedBuffer is 40.
-reader 3 on iteration 152. sharedBuffer is 40.
-reader 3 on iteration 153. sharedBuffer is 40.
-reader 3 on iteration 154. sharedBuffer is 40.
-reader 3 on iteration 155. sharedBuffer is 40.
-reader 1 on iteration 151. sharedBuffer is 40.
-reader 0 on iteration 181. sharedBuffer is 40.
-reader 4 on iteration 152. sharedBuffer is 40.
-reader 1 on iteration 152. sharedBuffer is 40.
-reader 0 on iteration 182. sharedBuffer is 40.
-reader 3 on iteration 156. sharedBuffer is 40.
-reader 1 on iteration 153. sharedBuffer is 40.
-reader 3 on iteration 157. sharedBuffer is 40.
-reader 2 on iteration 142. sharedBuffer is 40.
-reader 1 on iteration 154. sharedBuffer is 40.
-reader 1 on iteration 155. sharedBuffer is 40.
-reader 3 on iteration 158. sharedBuffer is 40.
-reader 0 on iteration 183. sharedBuffer is 40.
-reader 2 on iteration 143. sharedBuffer is 40.
-reader 3 on iteration 159. sharedBuffer is 40.
-reader 0 on iteration 184. sharedBuffer is 40.
-reader 2 on iteration 144. sharedBuffer is 40.
-reader 4 on iteration 153. sharedBuffer is 40.
-reader 3 on iteration 160. sharedBuffer is 40.
-reader 1 on iteration 156. sharedBuffer is 40.
-reader 4 on iteration 154. sharedBuffer is 40.
-reader 3 on iteration 161. sharedBuffer is 40.
-reader 4 on iteration 155. sharedBuffer is 40.
-reader 2 on iteration 145. sharedBuffer is 40.
-reader 3 on iteration 162. sharedBuffer is 40.
-reader 3 on iteration 163. sharedBuffer is 40.
-reader 3 on iteration 164. sharedBuffer is 40.
-reader 3 on iteration 165. sharedBuffer is 40.
-reader 3 on iteration 166. sharedBuffer is 40.
-reader 0 on iteration 185. sharedBuffer is 40.
-reader 2 on iteration 146. sharedBuffer is 40.
-reader 3 on iteration 167. sharedBuffer is 40.
-reader 4 on iteration 156. sharedBuffer is 40.
-reader 0 on iteration 186. sharedBuffer is 40.
-reader 4 on iteration 157. sharedBuffer is 40.
-reader 1 on iteration 157. sharedBuffer is 40.
-reader 3 on iteration 168. sharedBuffer is 40.
-reader 4 on iteration 158. sharedBuffer is 40.
-reader 2 on iteration 147. sharedBuffer is 40.
-reader 1 on iteration 158. sharedBuffer is 40.
-reader 2 on iteration 148. sharedBuffer is 40.
-reader 0 on iteration 187. sharedBuffer is 40.
-reader 2 on iteration 149. sharedBuffer is 40.
-reader 1 on iteration 159. sharedBuffer is 40.
-reader 2 on iteration 150. sharedBuffer is 40.
-reader 3 on iteration 169. sharedBuffer is 40.
-reader 1 on iteration 160. sharedBuffer is 40.
-reader 1 on iteration 161. sharedBuffer is 40.
-reader 0 on iteration 188. sharedBuffer is 40.
-reader 3 on iteration 170. sharedBuffer is 40.
-reader 1 on iteration 162. sharedBuffer is 40.
-reader 4 on iteration 159. sharedBuffer is 40.
-reader 2 on iteration 151. sharedBuffer is 40.
-reader 0 on iteration 189. sharedBuffer is 40.
-reader 2 on iteration 152. sharedBuffer is 40.
-reader 1 on iteration 163. sharedBuffer is 40.
-reader 0 on iteration 190. sharedBuffer is 40.
-reader 4 on iteration 160. sharedBuffer is 40.
-reader 2 on iteration 153. sharedBuffer is 40.
-reader 0 on iteration 191. sharedBuffer is 40.
-reader 2 on iteration 154. sharedBuffer is 40.
-reader 3 on iteration 171. sharedBuffer is 40.
-reader 0 on iteration 192. sharedBuffer is 40.
-reader 0 on iteration 193. sharedBuffer is 40.
-reader 0 on iteration 194. sharedBuffer is 40.
-reader 0 on iteration 195. sharedBuffer is 40.
-reader 0 on iteration 196. sharedBuffer is 40.
-reader 2 on iteration 155. sharedBuffer is 40.
-reader 2 on iteration 156. sharedBuffer is 40.
-reader 2 on iteration 157. sharedBuffer is 40.
-reader 2 on iteration 158. sharedBuffer is 40.
-reader 2 on iteration 159. sharedBuffer is 40.
-reader 2 on iteration 160. sharedBuffer is 40.
-reader 2 on iteration 161. sharedBuffer is 40.
-reader 3 on iteration 172. sharedBuffer is 40.
-reader 2 on iteration 162. sharedBuffer is 40.
-reader 2 on iteration 163. sharedBuffer is 40.
-reader 2 on iteration 164. sharedBuffer is 40.
-reader 2 on iteration 165. sharedBuffer is 40.
-reader 3 on iteration 173. sharedBuffer is 40.
-reader 1 on iteration 164. sharedBuffer is 40.
-reader 4 on iteration 161. sharedBuffer is 40.
-reader 3 on iteration 174. sharedBuffer is 40.
-reader 1 on iteration 165. sharedBuffer is 40.
-reader 2 on iteration 166. sharedBuffer is 40.
-reader 3 on iteration 175. sharedBuffer is 40.
-reader 3 on iteration 176. sharedBuffer is 40.
-reader 3 on iteration 177. sharedBuffer is 40.
-reader 0 on iteration 197. sharedBuffer is 40.
-reader 4 on iteration 162. sharedBuffer is 40.
-reader 0 on iteration 198. sharedBuffer is 40.
-reader 1 on iteration 166. sharedBuffer is 40.
-reader 2 on iteration 167. sharedBuffer is 40.
-reader 0 on iteration 199. sharedBuffer is 40.
-reader 3 on iteration 178. sharedBuffer is 40.
-reader 2 on iteration 168. sharedBuffer is 40.
-reader 2 on iteration 169. sharedBuffer is 40.
-reader 2 on iteration 170. sharedBuffer is 40.
-reader 2 on iteration 171. sharedBuffer is 40.
-reader 4 on iteration 163. sharedBuffer is 40.
-reader 3 on iteration 179. sharedBuffer is 40.
-reader 1 on iteration 167. sharedBuffer is 40.
-reader 4 on iteration 164. sharedBuffer is 40.
-reader 4 on iteration 165. sharedBuffer is 40.
-reader 3 on iteration 180. sharedBuffer is 40.
-reader 2 on iteration 172. sharedBuffer is 40.
-reader 1 on iteration 168. sharedBuffer is 40.
-reader 2 on iteration 173. sharedBuffer is 40.
-reader 4 on iteration 166. sharedBuffer is 40.
-reader 3 on iteration 181. sharedBuffer is 40.
-reader 4 on iteration 167. sharedBuffer is 40.
-READER 0 DONE.
-reader 2 on iteration 174. sharedBuffer is 40.
-reader 1 on iteration 169. sharedBuffer is 40.
-reader 4 on iteration 168. sharedBuffer is 40.
-reader 1 on iteration 170. sharedBuffer is 40.
-reader 3 on iteration 182. sharedBuffer is 40.
-reader 1 on iteration 171. sharedBuffer is 40.
-reader 2 on iteration 175. sharedBuffer is 40.
-reader 1 on iteration 172. sharedBuffer is 40.
-reader 1 on iteration 173. sharedBuffer is 40.
-reader 2 on iteration 176. sharedBuffer is 40.
-reader 3 on iteration 183. sharedBuffer is 40.
-reader 4 on iteration 169. sharedBuffer is 40.
-reader 1 on iteration 174. sharedBuffer is 40.
-reader 3 on iteration 184. sharedBuffer is 40.
-reader 2 on iteration 177. sharedBuffer is 40.
-reader 2 on iteration 178. sharedBuffer is 40.
-reader 2 on iteration 179. sharedBuffer is 40.
-reader 4 on iteration 170. sharedBuffer is 40.
-reader 1 on iteration 175. sharedBuffer is 40.
-reader 3 on iteration 185. sharedBuffer is 40.
-reader 2 on iteration 180. sharedBuffer is 40.
-reader 2 on iteration 181. sharedBuffer is 40.
-reader 2 on iteration 182. sharedBuffer is 40.
-reader 2 on iteration 183. sharedBuffer is 40.
-reader 4 on iteration 171. sharedBuffer is 40.
-reader 2 on iteration 184. sharedBuffer is 40.
-reader 4 on iteration 172. sharedBuffer is 40.
-reader 3 on iteration 186. sharedBuffer is 40.
-reader 1 on iteration 176. sharedBuffer is 40.
-reader 3 on iteration 187. sharedBuffer is 40.
-reader 1 on iteration 177. sharedBuffer is 40.
-reader 2 on iteration 185. sharedBuffer is 40.
-reader 1 on iteration 178. sharedBuffer is 40.
-reader 4 on iteration 173. sharedBuffer is 40.
-reader 2 on iteration 186. sharedBuffer is 40.
-reader 1 on iteration 179. sharedBuffer is 40.
-reader 2 on iteration 187. sharedBuffer is 40.
-reader 3 on iteration 188. sharedBuffer is 40.
-reader 4 on iteration 174. sharedBuffer is 40.
-reader 4 on iteration 175. sharedBuffer is 40.
-reader 4 on iteration 176. sharedBuffer is 40.
-reader 4 on iteration 177. sharedBuffer is 40.
-reader 4 on iteration 178. sharedBuffer is 40.
-reader 4 on iteration 179. sharedBuffer is 40.
-reader 1 on iteration 180. sharedBuffer is 40.
-reader 4 on iteration 180. sharedBuffer is 40.
-reader 4 on iteration 181. sharedBuffer is 40.
-reader 4 on iteration 182. sharedBuffer is 40.
-reader 3 on iteration 189. sharedBuffer is 40.
-reader 4 on iteration 183. sharedBuffer is 40.
-reader 2 on iteration 188. sharedBuffer is 40.
-reader 3 on iteration 190. sharedBuffer is 40.
-reader 1 on iteration 181. sharedBuffer is 40.
-reader 4 on iteration 184. sharedBuffer is 40.
-reader 1 on iteration 182. sharedBuffer is 40.
-reader 2 on iteration 189. sharedBuffer is 40.
-reader 2 on iteration 190. sharedBuffer is 40.
-reader 2 on iteration 191. sharedBuffer is 40.
-reader 2 on iteration 192. sharedBuffer is 40.
-reader 3 on iteration 191. sharedBuffer is 40.
-reader 4 on iteration 185. sharedBuffer is 40.
-reader 3 on iteration 192. sharedBuffer is 40.
-reader 1 on iteration 183. sharedBuffer is 40.
-reader 1 on iteration 184. sharedBuffer is 40.
-reader 1 on iteration 185. sharedBuffer is 40.
-reader 3 on iteration 193. sharedBuffer is 40.
-reader 3 on iteration 194. sharedBuffer is 40.
-reader 3 on iteration 195. sharedBuffer is 40.
-reader 3 on iteration 196. sharedBuffer is 40.
-reader 2 on iteration 193. sharedBuffer is 40.
-reader 3 on iteration 197. sharedBuffer is 40.
-reader 4 on iteration 186. sharedBuffer is 40.
-reader 2 on iteration 194. sharedBuffer is 40.
-reader 4 on iteration 187. sharedBuffer is 40.
-reader 2 on iteration 195. sharedBuffer is 40.
-reader 1 on iteration 186. sharedBuffer is 40.
-reader 2 on iteration 196. sharedBuffer is 40.
-reader 1 on iteration 187. sharedBuffer is 40.
-reader 4 on iteration 188. sharedBuffer is 40.
-reader 1 on iteration 188. sharedBuffer is 40.
-reader 2 on iteration 197. sharedBuffer is 40.
-reader 3 on iteration 198. sharedBuffer is 40.
-reader 2 on iteration 198. sharedBuffer is 40.
-reader 2 on iteration 199. sharedBuffer is 40.
+READER 1 CREATED.
+Writer on iteration 0. sharedBuffer is 1.
+Writer on iteration 1. sharedBuffer is 2.
+Writer on iteration 2. sharedBuffer is 3.
+Writer on iteration 3. sharedBuffer is 4.
+Writer on iteration 4. sharedBuffer is 5.
+Reader 1 on iteration 0. sharedBuffer is 5.
+reader 1 exited. 0 readers in buffer.
+Reader 1 on iteration 1. sharedBuffer is 5.
+reader 1 exited. 0 readers in buffer.
+Reader 1 on iteration 2. sharedBuffer is 5.
+reader 1 exited. 0 readers in buffer.
+Writer on iteration 5. sharedBuffer is 6.
+READER 0 CREATED.
+Writer on iteration 6. sharedBuffer is 7.
+Writer on iteration 7. sharedBuffer is 8.
+Writer on iteration 8. sharedBuffer is 9.
+Writer on iteration 9. sharedBuffer is 10.
+Writer on iteration 10. sharedBuffer is 11.
+Writer on iteration 11. sharedBuffer is 12.
+Writer on iteration 12. sharedBuffer is 13.
+Writer on iteration 13. sharedBuffer is 14.
+Writer on iteration 14. sharedBuffer is 15.
+Writer on iteration 15. sharedBuffer is 16.
+Writer on iteration 16. sharedBuffer is 17.
+Writer on iteration 17. sharedBuffer is 18.
+Writer on iteration 18. sharedBuffer is 19.
+Writer on iteration 19. sharedBuffer is 20.
+Writer on iteration 20. sharedBuffer is 21.
+Writer on iteration 21. sharedBuffer is 22.
+Writer on iteration 22. sharedBuffer is 23.
+Writer on iteration 23. sharedBuffer is 24.
+Writer on iteration 24. sharedBuffer is 25.
+Writer on iteration 25. sharedBuffer is 26.
+Reader 1 on iteration 3. sharedBuffer is 26.
+reader 1 exited. 0 readers in buffer.
+READER 3 CREATED.
+Reader 1 on iteration 4. sharedBuffer is 26.
+reader 1 exited. 0 readers in buffer.
+Reader 1 on iteration 5. sharedBuffer is 26.
+reader 1 exited. 0 readers in buffer.
+Writer on iteration 26. sharedBuffer is 27.
+Writer on iteration 27. sharedBuffer is 28.
+Writer on iteration 28. sharedBuffer is 29.
+Writer on iteration 29. sharedBuffer is 30.
+Writer on iteration 30. sharedBuffer is 31.
+READER 2 CREATED.
+Writer on iteration 31. sharedBuffer is 32.
+Writer on iteration 32. sharedBuffer is 33.
+Writer on iteration 33. sharedBuffer is 34.
+Writer on iteration 34. sharedBuffer is 35.
+Writer on iteration 35. sharedBuffer is 36.
+Writer on iteration 36. sharedBuffer is 37.
+READER 4 CREATED.
+Writer on iteration 37. sharedBuffer is 38.
+Writer on iteration 38. sharedBuffer is 39.
+Writer on iteration 39. sharedBuffer is 40.
+Writer on iteration 40. sharedBuffer is 41.
+Writer on iteration 41. sharedBuffer is 42.
+Writer on iteration 42. sharedBuffer is 43.
+Writer on iteration 43. sharedBuffer is 44.
+Reader 1 on iteration 6. sharedBuffer is 44.
+reader 1 exited. 0 readers in buffer.
+Reader 1 on iteration 7. sharedBuffer is 44.
+reader 1 exited. 0 readers in buffer.
+Reader 1 on iteration 8. sharedBuffer is 44.
+reader 1 exited. 0 readers in buffer.
+Writer on iteration 44. sharedBuffer is 45.
+Writer on iteration 45. sharedBuffer is 46.
+Writer on iteration 46. sharedBuffer is 47.
+Writer on iteration 47. sharedBuffer is 48.
+Writer on iteration 48. sharedBuffer is 49.
+Writer on iteration 49. sharedBuffer is 50.
+Writer on iteration 50. sharedBuffer is 51.
+Writer on iteration 51. sharedBuffer is 52.
+Writer on iteration 52. sharedBuffer is 53.
+Writer on iteration 53. sharedBuffer is 54.
+Writer on iteration 54. sharedBuffer is 55.
+Writer on iteration 55. sharedBuffer is 56.
+Writer on iteration 56. sharedBuffer is 57.
+Writer on iteration 57. sharedBuffer is 58.
+Writer on iteration 58. sharedBuffer is 59.
+Reader 1 on iteration 9. sharedBuffer is 59.
+reader 1 exited. 0 readers in buffer.
+Reader 1 on iteration 10. sharedBuffer is 59.
+reader 1 exited. 0 readers in buffer.
+Reader 1 on iteration 11. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+Reader 2 on iteration 0. sharedBuffer is 59.
+Reader 0 on iteration 0. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 12. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 4 on iteration 0. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 2 on iteration 1. sharedBuffer is 59.
+Reader 0 on iteration 1. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 3 on iteration 0. sharedBuffer is 59.
+Reader 2 on iteration 2. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 1. sharedBuffer is 59.
+Reader 1 on iteration 13. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 4 on iteration 2. sharedBuffer is 59.
+Reader 0 on iteration 2. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 3. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 3. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 14. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 4 on iteration 4. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+Reader 3 on iteration 1. sharedBuffer is 59.
+reader 3 exited. 1 readers in buffer.
+Reader 2 on iteration 4. sharedBuffer is 59.
+Reader 0 on iteration 3. sharedBuffer is 59.
+Reader 1 on iteration 15. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 16. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 17. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 5. sharedBuffer is 59.
+Reader 3 on iteration 2. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 6. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 1 on iteration 18. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 0 on iteration 4. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 1 on iteration 19. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 0 on iteration 5. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 2 on iteration 5. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 20. sharedBuffer is 59.
+Reader 2 on iteration 6. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 3. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 4 on iteration 7. sharedBuffer is 59.
+Reader 0 on iteration 6. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 21. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 4 exited. 1 readers in buffer.
+Reader 3 on iteration 4. sharedBuffer is 59.
+Reader 0 on iteration 7. sharedBuffer is 59.
+Reader 4 on iteration 8. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 5. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 2 on iteration 7. sharedBuffer is 59.
+reader 2 exited. 1 readers in buffer.
+Reader 3 on iteration 6. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 0 on iteration 8. sharedBuffer is 59.
+Reader 2 on iteration 8. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 7. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 9. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+reader 2 exited. 1 readers in buffer.
+Reader 0 on iteration 9. sharedBuffer is 59.
+Reader 3 on iteration 8. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 4 on iteration 10. sharedBuffer is 59.
+Reader 2 on iteration 9. sharedBuffer is 59.
+Reader 1 on iteration 22. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 11. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 0 on iteration 10. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 4 on iteration 12. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 1 on iteration 23. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 2 on iteration 10. sharedBuffer is 59.
+Reader 3 on iteration 9. sharedBuffer is 59.
+Reader 1 on iteration 24. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 11. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 13. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 14. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 25. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 2 on iteration 11. sharedBuffer is 59.
+Reader 1 on iteration 26. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 4 on iteration 15. sharedBuffer is 59.
+Reader 0 on iteration 12. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 12. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+reader 3 exited. 1 readers in buffer.
+Reader 1 on iteration 27. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+Reader 4 on iteration 16. sharedBuffer is 59.
+Reader 3 on iteration 10. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 13. sharedBuffer is 59.
+Reader 0 on iteration 13. sharedBuffer is 59.
+Reader 1 on iteration 28. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 14. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 4 readers in buffer.
+Reader 4 on iteration 17. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 11. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 0 on iteration 14. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 15. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 3 on iteration 12. sharedBuffer is 59.
+Reader 4 on iteration 18. sharedBuffer is 59.
+Reader 0 on iteration 15. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 13. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+Reader 2 on iteration 16. sharedBuffer is 59.
+Reader 4 on iteration 19. sharedBuffer is 59.
+Reader 1 on iteration 29. sharedBuffer is 59.
+Reader 0 on iteration 16. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 17. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 3 on iteration 14. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 20. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 18. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 30. sharedBuffer is 59.
+Reader 4 on iteration 21. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+Reader 1 on iteration 31. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 3 on iteration 15. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 2 on iteration 19. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 0 on iteration 17. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 32. sharedBuffer is 59.
+Reader 4 on iteration 22. sharedBuffer is 59.
+Reader 2 on iteration 20. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 18. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 0 on iteration 19. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 23. sharedBuffer is 59.
+Reader 3 on iteration 16. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 0 on iteration 20. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 24. sharedBuffer is 59.
+Reader 1 on iteration 33. sharedBuffer is 59.
+Reader 0 on iteration 21. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 21. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 22. sharedBuffer is 59.
+Reader 3 on iteration 17. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 4 on iteration 25. sharedBuffer is 59.
+Reader 2 on iteration 23. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 26. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 22. sharedBuffer is 59.
+Reader 2 on iteration 24. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 4 on iteration 27. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+reader 2 exited. 1 readers in buffer.
+Reader 4 on iteration 28. sharedBuffer is 59.
+Reader 0 on iteration 23. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+Reader 4 on iteration 29. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+Reader 4 on iteration 30. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 3 on iteration 18. sharedBuffer is 59.
+Reader 1 on iteration 34. sharedBuffer is 59.
+Reader 4 on iteration 31. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 24. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 25. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 0 on iteration 25. sharedBuffer is 59.
+Reader 3 on iteration 19. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 4 on iteration 32. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 1 on iteration 35. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+Reader 4 on iteration 33. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 26. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 26. sharedBuffer is 59.
+Reader 4 on iteration 34. sharedBuffer is 59.
+Reader 1 on iteration 36. sharedBuffer is 59.
+Reader 3 on iteration 20. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 27. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 0 on iteration 27. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 35. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 28. sharedBuffer is 59.
+Reader 1 on iteration 37. sharedBuffer is 59.
+Reader 0 on iteration 28. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 36. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 4 on iteration 37. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 29. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 3 on iteration 21. sharedBuffer is 59.
+Reader 2 on iteration 30. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 38. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 1 on iteration 38. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 29. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 4 on iteration 39. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 22. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 0 on iteration 30. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 31. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 32. sharedBuffer is 59.
+Reader 4 on iteration 40. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 23. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 0 on iteration 31. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 24. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 41. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 2 on iteration 33. sharedBuffer is 59.
+Reader 0 on iteration 32. sharedBuffer is 59.
+Reader 4 on iteration 42. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 39. sharedBuffer is 59.
+Reader 2 on iteration 34. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 1 on iteration 40. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 3 on iteration 25. sharedBuffer is 59.
+Reader 2 on iteration 35. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 1 on iteration 41. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 33. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 43. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+reader 3 exited. 1 readers in buffer.
+Reader 0 on iteration 34. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 2 on iteration 36. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 4 on iteration 44. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 2 on iteration 37. sharedBuffer is 59.
+Reader 0 on iteration 35. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 42. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 2 on iteration 38. sharedBuffer is 59.
+Reader 1 on iteration 43. sharedBuffer is 59.
+Reader 4 on iteration 45. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 39. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 26. sharedBuffer is 59.
+Reader 0 on iteration 36. sharedBuffer is 59.
+Reader 2 on iteration 40. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 44. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 4 readers in buffer.
+Reader 3 on iteration 27. sharedBuffer is 59.
+Reader 0 on iteration 37. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 4 on iteration 46. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 41. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 3 on iteration 28. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 2 on iteration 42. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 0 on iteration 38. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 45. sharedBuffer is 59.
+Reader 2 on iteration 43. sharedBuffer is 59.
+Reader 4 on iteration 47. sharedBuffer is 59.
+Reader 0 on iteration 39. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 46. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 47. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 44. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 3 on iteration 29. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 4 on iteration 48. sharedBuffer is 59.
+Reader 1 on iteration 48. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 40. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 45. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 49. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 0 on iteration 41. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 1 on iteration 50. sharedBuffer is 59.
+Reader 3 on iteration 30. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 42. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 4 on iteration 49. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 43. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 31. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 4 on iteration 50. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 0 on iteration 44. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 2 on iteration 46. sharedBuffer is 59.
+Reader 0 on iteration 45. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 3 on iteration 32. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 4 on iteration 51. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 51. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 33. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 2 on iteration 47. sharedBuffer is 59.
+Reader 4 on iteration 52. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 3 on iteration 34. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 0 on iteration 46. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 3 on iteration 35. sharedBuffer is 59.
+Reader 2 on iteration 48. sharedBuffer is 59.
+Reader 4 on iteration 53. sharedBuffer is 59.
+Reader 1 on iteration 52. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 36. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 0 on iteration 47. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 53. sharedBuffer is 59.
+Reader 4 on iteration 54. sharedBuffer is 59.
+Reader 2 on iteration 49. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 37. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 3 on iteration 38. sharedBuffer is 59.
+Reader 1 on iteration 54. sharedBuffer is 59.
+Reader 0 on iteration 48. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 55. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+Reader 3 on iteration 39. sharedBuffer is 59.
+Reader 2 on iteration 50. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 56. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 1 on iteration 55. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 4 on iteration 57. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 56. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 0 on iteration 49. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 51. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 4 on iteration 58. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 57. sharedBuffer is 59.
+Reader 3 on iteration 40. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 52. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 4 on iteration 59. sharedBuffer is 59.
+Reader 3 on iteration 41. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 2 on iteration 53. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 58. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 54. sharedBuffer is 59.
+Reader 4 on iteration 60. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 59. sharedBuffer is 59.
+Reader 2 on iteration 55. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 60. sharedBuffer is 59.
+Reader 3 on iteration 42. sharedBuffer is 59.
+Reader 0 on iteration 50. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 61. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 4 on iteration 62. sharedBuffer is 59.
+Reader 2 on iteration 56. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 61. sharedBuffer is 59.
+Reader 4 on iteration 63. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 2 on iteration 57. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 1 on iteration 62. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 3 on iteration 43. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 58. sharedBuffer is 59.
+Reader 1 on iteration 63. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 44. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 2 on iteration 59. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 3 on iteration 45. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 51. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 60. sharedBuffer is 59.
+Reader 4 on iteration 64. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 0 on iteration 52. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 1 on iteration 64. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+reader 4 exited. 1 readers in buffer.
+Reader 0 on iteration 53. sharedBuffer is 59.
+Reader 1 on iteration 65. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 61. sharedBuffer is 59.
+Reader 4 on iteration 65. sharedBuffer is 59.
+Reader 0 on iteration 54. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 62. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 63. sharedBuffer is 59.
+Reader 3 on iteration 46. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 0 on iteration 55. sharedBuffer is 59.
+Reader 2 on iteration 64. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 56. sharedBuffer is 59.
+Reader 1 on iteration 66. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 4 on iteration 66. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 47. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 3 on iteration 48. sharedBuffer is 59.
+Reader 0 on iteration 57. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 67. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 65. sharedBuffer is 59.
+Reader 4 on iteration 67. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 1 on iteration 68. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+Reader 0 on iteration 58. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 4 on iteration 68. sharedBuffer is 59.
+reader 4 exited. 0 readers in buffer.
+Reader 3 on iteration 49. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 4 on iteration 69. sharedBuffer is 59.
+Reader 3 on iteration 50. sharedBuffer is 59.
+Reader 2 on iteration 66. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 67. sharedBuffer is 59.
+Reader 0 on iteration 59. sharedBuffer is 59.
+Reader 1 on iteration 69. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 70. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 4 on iteration 71. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 0 on iteration 60. sharedBuffer is 59.
+Reader 4 on iteration 72. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 1 on iteration 70. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 3 on iteration 51. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 61. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 71. sharedBuffer is 59.
+Reader 0 on iteration 62. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 2 on iteration 68. sharedBuffer is 59.
+Reader 3 on iteration 52. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 69. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 70. sharedBuffer is 59.
+Reader 4 on iteration 73. sharedBuffer is 59.
+Reader 0 on iteration 63. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 72. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 73. sharedBuffer is 59.
+Reader 3 on iteration 53. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 71. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 74. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+reader 3 exited. 0 readers in buffer.
+Reader 0 on iteration 64. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+Reader 3 on iteration 54. sharedBuffer is 59.
+Reader 2 on iteration 72. sharedBuffer is 59.
+Reader 0 on iteration 65. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 55. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 74. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 4 on iteration 75. sharedBuffer is 59.
+Reader 3 on iteration 56. sharedBuffer is 59.
+Reader 1 on iteration 75. sharedBuffer is 59.
+Reader 2 on iteration 73. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 57. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 3 on iteration 58. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 76. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 76. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 0 on iteration 66. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+reader 4 exited. 1 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 3 on iteration 59. sharedBuffer is 59.
+Reader 4 on iteration 77. sharedBuffer is 59.
+Reader 2 on iteration 74. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 75. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 0 on iteration 67. sharedBuffer is 59.
+Reader 1 on iteration 77. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 68. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 78. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 4 on iteration 79. sharedBuffer is 59.
+Reader 2 on iteration 76. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 69. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 70. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 78. sharedBuffer is 59.
+Reader 3 on iteration 60. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 4 on iteration 80. sharedBuffer is 59.
+Reader 1 on iteration 79. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 4 on iteration 81. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 3 on iteration 61. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 0 on iteration 71. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+Reader 4 on iteration 82. sharedBuffer is 59.
+Reader 1 on iteration 80. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 2 on iteration 77. sharedBuffer is 59.
+Reader 3 on iteration 62. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 0 on iteration 72. sharedBuffer is 59.
+Reader 1 on iteration 81. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 83. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 73. sharedBuffer is 59.
+Reader 2 on iteration 78. sharedBuffer is 59.
+Reader 3 on iteration 63. sharedBuffer is 59.
+Reader 4 on iteration 84. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 82. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 3 exited. 4 readers in buffer.
+Reader 0 on iteration 74. sharedBuffer is 59.
+Reader 3 on iteration 64. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 79. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 85. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 80. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 83. sharedBuffer is 59.
+Reader 0 on iteration 75. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 81. sharedBuffer is 59.
+Reader 1 on iteration 84. sharedBuffer is 59.
+Reader 0 on iteration 76. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 82. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 83. sharedBuffer is 59.
+Reader 3 on iteration 65. sharedBuffer is 59.
+Reader 4 on iteration 86. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 85. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 1 on iteration 86. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 2 on iteration 84. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 0 on iteration 77. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 66. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 0 on iteration 78. sharedBuffer is 59.
+reader 3 exited. 1 readers in buffer.
+Reader 3 on iteration 67. sharedBuffer is 59.
+reader 3 exited. 1 readers in buffer.
+Reader 3 on iteration 68. sharedBuffer is 59.
+Reader 2 on iteration 85. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 1 on iteration 87. sharedBuffer is 59.
+Reader 4 on iteration 87. sharedBuffer is 59.
+Reader 3 on iteration 69. sharedBuffer is 59.
+Reader 0 on iteration 79. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 86. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 87. sharedBuffer is 59.
+Reader 1 on iteration 88. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 4 on iteration 88. sharedBuffer is 59.
+Reader 2 on iteration 88. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+Reader 3 on iteration 70. sharedBuffer is 59.
+Reader 0 on iteration 80. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 89. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 2 on iteration 89. sharedBuffer is 59.
+reader 2 exited. 1 readers in buffer.
+Reader 1 on iteration 89. sharedBuffer is 59.
+Reader 2 on iteration 90. sharedBuffer is 59.
+Reader 0 on iteration 81. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 3 on iteration 71. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 2 on iteration 91. sharedBuffer is 59.
+Reader 0 on iteration 82. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 3 on iteration 72. sharedBuffer is 59.
+Reader 2 on iteration 92. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 73. sharedBuffer is 59.
+Reader 0 on iteration 83. sharedBuffer is 59.
+Reader 1 on iteration 90. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 93. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 3 exited. 4 readers in buffer.
+Reader 2 on iteration 94. sharedBuffer is 59.
+Reader 3 on iteration 74. sharedBuffer is 59.
+Reader 4 on iteration 90. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 84. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 85. sharedBuffer is 59.
+Reader 1 on iteration 91. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 2 on iteration 95. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 3 on iteration 75. sharedBuffer is 59.
+Reader 2 on iteration 96. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 0 exited. 4 readers in buffer.
+Reader 4 on iteration 91. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 4 on iteration 92. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 1 on iteration 92. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 0 on iteration 86. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+reader 2 exited. 1 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+Reader 4 on iteration 93. sharedBuffer is 59.
+Reader 0 on iteration 87. sharedBuffer is 59.
+Reader 2 on iteration 97. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 93. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 1 on iteration 94. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 76. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 88. sharedBuffer is 59.
+Reader 1 on iteration 95. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 77. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 4 on iteration 94. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 98. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 0 on iteration 89. sharedBuffer is 59.
+Reader 4 on iteration 95. sharedBuffer is 59.
+Reader 2 on iteration 99. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 96. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 78. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 79. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 96. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 100. sharedBuffer is 59.
+Reader 4 on iteration 97. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 90. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 91. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 97. sharedBuffer is 59.
+Reader 3 on iteration 80. sharedBuffer is 59.
+Reader 2 on iteration 101. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 98. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 99. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 0 on iteration 92. sharedBuffer is 59.
+Reader 4 on iteration 98. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 81. sharedBuffer is 59.
+Reader 2 on iteration 102. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 3 on iteration 82. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 1 on iteration 100. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 4 on iteration 99. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 0 on iteration 93. sharedBuffer is 59.
+Reader 1 on iteration 101. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 4 on iteration 100. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 103. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 2 on iteration 104. sharedBuffer is 59.
+Reader 3 on iteration 83. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 94. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 102. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 3 on iteration 84. sharedBuffer is 59.
+Reader 0 on iteration 95. sharedBuffer is 59.
+Reader 2 on iteration 105. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 106. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 4 on iteration 101. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 103. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 3 on iteration 85. sharedBuffer is 59.
+Reader 1 on iteration 104. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 4 on iteration 102. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 96. sharedBuffer is 59.
+Reader 2 on iteration 107. sharedBuffer is 59.
+Reader 1 on iteration 105. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 86. sharedBuffer is 59.
+Reader 2 on iteration 108. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 2 on iteration 109. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 103. sharedBuffer is 59.
+Reader 0 on iteration 97. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 104. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 87. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 4 on iteration 105. sharedBuffer is 59.
+Reader 0 on iteration 98. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 106. sharedBuffer is 59.
+Reader 2 on iteration 110. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 111. sharedBuffer is 59.
+Reader 3 on iteration 88. sharedBuffer is 59.
+Reader 0 on iteration 99. sharedBuffer is 59.
+Reader 1 on iteration 107. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 112. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 113. sharedBuffer is 59.
+Reader 4 on iteration 106. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 89. sharedBuffer is 59.
+Reader 2 on iteration 114. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 108. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 115. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 3 on iteration 90. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 0 on iteration 100. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 107. sharedBuffer is 59.
+Reader 3 on iteration 91. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 0 on iteration 101. sharedBuffer is 59.
+Reader 2 on iteration 116. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 109. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 3 on iteration 92. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 2 exited. 1 readers in buffer.
+Reader 0 on iteration 102. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 93. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 4 on iteration 108. sharedBuffer is 59.
+Reader 1 on iteration 110. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 117. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 4 on iteration 109. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 2 on iteration 118. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 3 on iteration 94. sharedBuffer is 59.
+Reader 4 on iteration 110. sharedBuffer is 59.
+Reader 0 on iteration 103. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 119. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 3 on iteration 95. sharedBuffer is 59.
+Reader 1 on iteration 111. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 111. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 2 on iteration 120. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 0 on iteration 104. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 96. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 0 on iteration 105. sharedBuffer is 59.
+Reader 3 on iteration 97. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 112. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 1 on iteration 113. sharedBuffer is 59.
+Reader 2 on iteration 121. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 4 on iteration 112. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 0 on iteration 106. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 113. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 98. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 107. sharedBuffer is 59.
+Reader 3 on iteration 99. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 114. sharedBuffer is 59.
+Reader 2 on iteration 122. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 2 on iteration 123. sharedBuffer is 59.
+Reader 1 on iteration 115. sharedBuffer is 59.
+Reader 0 on iteration 108. sharedBuffer is 59.
+Reader 3 on iteration 100. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 124. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 2 on iteration 125. sharedBuffer is 59.
+Reader 4 on iteration 114. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 116. sharedBuffer is 59.
+Reader 2 on iteration 126. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 3 on iteration 101. sharedBuffer is 59.
+Reader 0 on iteration 109. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 2 on iteration 127. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 4 on iteration 115. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 128. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 0 on iteration 110. sharedBuffer is 59.
+Reader 3 on iteration 102. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 116. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 129. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 117. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 111. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 103. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 130. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 118. sharedBuffer is 59.
+Reader 4 on iteration 117. sharedBuffer is 59.
+Reader 2 on iteration 131. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 119. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 104. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 3 on iteration 105. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 132. sharedBuffer is 59.
+Reader 4 on iteration 118. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 106. sharedBuffer is 59.
+Reader 2 on iteration 133. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 2 on iteration 134. sharedBuffer is 59.
+reader 2 exited. 1 readers in buffer.
+reader 0 exited. 0 readers in buffer.
+Reader 0 on iteration 112. sharedBuffer is 59.
+Reader 4 on iteration 119. sharedBuffer is 59.
+Reader 2 on iteration 135. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 136. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 1 on iteration 120. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 3 on iteration 107. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+Reader 0 on iteration 113. sharedBuffer is 59.
+Reader 4 on iteration 120. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 137. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 121. sharedBuffer is 59.
+Reader 0 on iteration 114. sharedBuffer is 59.
+Reader 2 on iteration 138. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 108. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 3 on iteration 109. sharedBuffer is 59.
+Reader 1 on iteration 122. sharedBuffer is 59.
+Reader 4 on iteration 121. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 115. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 116. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 110. sharedBuffer is 59.
+Reader 2 on iteration 139. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 0 exited. 4 readers in buffer.
+Reader 1 on iteration 123. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 3 on iteration 111. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 2 on iteration 140. sharedBuffer is 59.
+Reader 3 on iteration 112. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 0 on iteration 117. sharedBuffer is 59.
+Reader 4 on iteration 122. sharedBuffer is 59.
+Reader 2 on iteration 141. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 118. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 0 on iteration 119. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 142. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 1 on iteration 124. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 4 on iteration 123. sharedBuffer is 59.
+Reader 1 on iteration 125. sharedBuffer is 59.
+Reader 0 on iteration 120. sharedBuffer is 59.
+Reader 3 on iteration 113. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 124. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 4 on iteration 125. sharedBuffer is 59.
+Reader 1 on iteration 126. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 143. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 0 on iteration 121. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+Reader 3 on iteration 114. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 2 on iteration 144. sharedBuffer is 59.
+Reader 1 on iteration 127. sharedBuffer is 59.
+Reader 0 on iteration 122. sharedBuffer is 59.
+Reader 3 on iteration 115. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 145. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 2 on iteration 146. sharedBuffer is 59.
+Reader 4 on iteration 126. sharedBuffer is 59.
+Reader 1 on iteration 128. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 147. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 148. sharedBuffer is 59.
+Reader 0 on iteration 123. sharedBuffer is 59.
+Reader 3 on iteration 116. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 149. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 2 on iteration 150. sharedBuffer is 59.
+Reader 4 on iteration 127. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 129. sharedBuffer is 59.
+Reader 2 on iteration 151. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 3 on iteration 117. sharedBuffer is 59.
+Reader 4 on iteration 128. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 1 on iteration 130. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 0 on iteration 124. sharedBuffer is 59.
+Reader 1 on iteration 131. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 118. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 119. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 4 on iteration 129. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 2 on iteration 152. sharedBuffer is 59.
+Reader 1 on iteration 132. sharedBuffer is 59.
+Reader 4 on iteration 130. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 2 on iteration 153. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 2 on iteration 154. sharedBuffer is 59.
+Reader 3 on iteration 120. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 0 on iteration 125. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 1 on iteration 133. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 126. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 1 on iteration 134. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 0 on iteration 127. sharedBuffer is 59.
+Reader 2 on iteration 155. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 135. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 4 on iteration 131. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 156. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 3 on iteration 121. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 1 on iteration 136. sharedBuffer is 59.
+Reader 3 on iteration 122. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 128. sharedBuffer is 59.
+Reader 2 on iteration 157. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 123. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 158. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+Reader 3 on iteration 124. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 137. sharedBuffer is 59.
+Reader 2 on iteration 159. sharedBuffer is 59.
+Reader 0 on iteration 129. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 3 on iteration 125. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+reader 2 exited. 0 readers in buffer.
+Reader 4 on iteration 132. sharedBuffer is 59.
+Reader 2 on iteration 160. sharedBuffer is 59.
+Reader 3 on iteration 126. sharedBuffer is 59.
+Reader 0 on iteration 130. sharedBuffer is 59.
+Reader 1 on iteration 138. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 133. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 134. sharedBuffer is 59.
+Reader 2 on iteration 161. sharedBuffer is 59.
+Reader 0 on iteration 131. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 135. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 136. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 162. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 2 on iteration 163. sharedBuffer is 59.
+Reader 1 on iteration 139. sharedBuffer is 59.
+Reader 3 on iteration 127. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 0 on iteration 132. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 0 on iteration 133. sharedBuffer is 59.
+Reader 2 on iteration 164. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 140. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 4 on iteration 137. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 4 readers in buffer.
+Reader 3 on iteration 128. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 4 on iteration 138. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+Reader 2 on iteration 165. sharedBuffer is 59.
+Reader 3 on iteration 129. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+reader 3 exited. 1 readers in buffer.
+Reader 4 on iteration 139. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+Reader 2 on iteration 166. sharedBuffer is 59.
+Reader 3 on iteration 130. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+Reader 4 on iteration 140. sharedBuffer is 59.
+Reader 2 on iteration 167. sharedBuffer is 59.
+reader 2 exited. 2 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 1 on iteration 141. sharedBuffer is 59.
+Reader 4 on iteration 141. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 131. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 2 on iteration 168. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 0 on iteration 134. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 169. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+Reader 1 on iteration 142. sharedBuffer is 59.
+Reader 4 on iteration 142. sharedBuffer is 59.
+Reader 2 on iteration 170. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 143. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 135. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 171. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 144. sharedBuffer is 59.
+Reader 4 on iteration 143. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 3 on iteration 132. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 172. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 145. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 173. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 3 on iteration 133. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 136. sharedBuffer is 59.
+Reader 2 on iteration 174. sharedBuffer is 59.
+Reader 3 on iteration 134. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 4 on iteration 144. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 137. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 1 on iteration 146. sharedBuffer is 59.
+Reader 2 on iteration 175. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 147. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 4 on iteration 145. sharedBuffer is 59.
+Reader 0 on iteration 138. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 135. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 2 on iteration 176. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 148. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 4 on iteration 146. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 177. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 0 on iteration 139. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 178. sharedBuffer is 59.
+Reader 1 on iteration 149. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 4 on iteration 147. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 2 on iteration 179. sharedBuffer is 59.
+Reader 3 on iteration 136. sharedBuffer is 59.
+Reader 0 on iteration 140. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 180. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 4 readers in buffer.
+Reader 2 on iteration 181. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 4 on iteration 148. sharedBuffer is 59.
+Reader 2 on iteration 182. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 1 on iteration 150. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 3 on iteration 137. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 4 exited. 1 readers in buffer.
+reader 2 exited. 0 readers in buffer.
+Reader 4 on iteration 149. sharedBuffer is 59.
+Reader 2 on iteration 183. sharedBuffer is 59.
+Reader 3 on iteration 138. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 0 on iteration 141. sharedBuffer is 59.
+Reader 1 on iteration 151. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 150. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+reader 2 exited. 2 readers in buffer.
+Reader 1 on iteration 152. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+reader 0 exited. 0 readers in buffer.
+Reader 4 on iteration 151. sharedBuffer is 59.
+Reader 0 on iteration 142. sharedBuffer is 59.
+Reader 1 on iteration 153. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 154. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 3 on iteration 139. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 184. sharedBuffer is 59.
+Reader 4 on iteration 152. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 3 on iteration 140. sharedBuffer is 59.
+Reader 2 on iteration 185. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 4 readers in buffer.
+Reader 3 on iteration 141. sharedBuffer is 59.
+Reader 4 on iteration 153. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 155. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 4 on iteration 154. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 2 on iteration 186. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 156. sharedBuffer is 59.
+Reader 3 on iteration 142. sharedBuffer is 59.
+Reader 4 on iteration 155. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 187. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 188. sharedBuffer is 59.
+Reader 1 on iteration 157. sharedBuffer is 59.
+Reader 0 on iteration 143. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 189. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 190. sharedBuffer is 59.
+Reader 3 on iteration 143. sharedBuffer is 59.
+Reader 4 on iteration 156. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 2 on iteration 191. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+reader 0 exited. 3 readers in buffer.
+Reader 2 on iteration 192. sharedBuffer is 59.
+Reader 1 on iteration 158. sharedBuffer is 59.
+Reader 0 on iteration 144. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 144. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+Reader 3 on iteration 145. sharedBuffer is 59.
+Reader 2 on iteration 193. sharedBuffer is 59.
+Reader 4 on iteration 157. sharedBuffer is 59.
+reader 1 exited. 4 readers in buffer.
+Reader 1 on iteration 159. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 3 on iteration 146. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+reader 2 exited. 3 readers in buffer.
+reader 4 exited. 3 readers in buffer.
+Reader 3 on iteration 147. sharedBuffer is 59.
+Reader 4 on iteration 158. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 2 on iteration 194. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 0 on iteration 145. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 2 on iteration 195. sharedBuffer is 59.
+Reader 1 on iteration 160. sharedBuffer is 59.
+reader 2 exited. 4 readers in buffer.
+Reader 4 on iteration 159. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 3 on iteration 148. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 2 on iteration 196. sharedBuffer is 59.
+Reader 4 on iteration 160. sharedBuffer is 59.
+reader 0 exited. 4 readers in buffer.
+Reader 3 on iteration 149. sharedBuffer is 59.
+reader 3 exited. 4 readers in buffer.
+Reader 0 on iteration 146. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 161. sharedBuffer is 59.
+reader 4 exited. 4 readers in buffer.
+Reader 3 on iteration 150. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 2 on iteration 197. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+reader 1 exited. 4 readers in buffer.
+Reader 4 on iteration 162. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 2 on iteration 198. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
+Reader 1 on iteration 161. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 151. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 2 on iteration 199. sharedBuffer is 59.
+Reader 1 on iteration 162. sharedBuffer is 59.
+Reader 4 on iteration 163. sharedBuffer is 59.
+Reader 0 on iteration 147. sharedBuffer is 59.
+reader 2 exited. 3 readers in buffer.
 READER 2 DONE.
-reader 3 on iteration 199. sharedBuffer is 40.
-READER 3 DONE.
-reader 4 on iteration 189. sharedBuffer is 40.
-reader 4 on iteration 190. sharedBuffer is 40.
-reader 1 on iteration 189. sharedBuffer is 40.
-reader 1 on iteration 190. sharedBuffer is 40.
-reader 1 on iteration 191. sharedBuffer is 40.
-reader 1 on iteration 192. sharedBuffer is 40.
-reader 1 on iteration 193. sharedBuffer is 40.
-reader 4 on iteration 191. sharedBuffer is 40.
-reader 4 on iteration 192. sharedBuffer is 40.
-reader 4 on iteration 193. sharedBuffer is 40.
-reader 1 on iteration 194. sharedBuffer is 40.
-reader 1 on iteration 195. sharedBuffer is 40.
-reader 1 on iteration 196. sharedBuffer is 40.
-reader 4 on iteration 194. sharedBuffer is 40.
-reader 4 on iteration 195. sharedBuffer is 40.
-reader 4 on iteration 196. sharedBuffer is 40.
-reader 1 on iteration 197. sharedBuffer is 40.
-reader 1 on iteration 198. sharedBuffer is 40.
-reader 1 on iteration 199. sharedBuffer is 40.
-reader 4 on iteration 197. sharedBuffer is 40.
-READER 1 DONE.
-reader 4 on iteration 198. sharedBuffer is 40.
-reader 4 on iteration 199. sharedBuffer is 40.
+Reader 3 on iteration 152. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 3 on iteration 153. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 164. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 1 on iteration 163. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 3 on iteration 154. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 148. sharedBuffer is 59.
+Reader 1 on iteration 164. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 165. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 4 on iteration 166. sharedBuffer is 59.
+Reader 0 on iteration 149. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 3 on iteration 155. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 165. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 150. sharedBuffer is 59.
+Reader 3 on iteration 156. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 4 on iteration 167. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 4 on iteration 168. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 0 on iteration 151. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 166. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+reader 4 exited. 0 readers in buffer.
+Reader 4 on iteration 169. sharedBuffer is 59.
+Reader 0 on iteration 152. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+reader 4 exited. 1 readers in buffer.
+Reader 0 on iteration 153. sharedBuffer is 59.
+Reader 1 on iteration 167. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 4 on iteration 170. sharedBuffer is 59.
+Reader 1 on iteration 168. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 3 on iteration 157. sharedBuffer is 59.
+reader 3 exited. 1 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 4 on iteration 171. sharedBuffer is 59.
+Reader 0 on iteration 154. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+Reader 4 on iteration 172. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 3 on iteration 158. sharedBuffer is 59.
+Reader 4 on iteration 173. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 169. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+Reader 0 on iteration 155. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 174. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 175. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 176. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 1 on iteration 170. sharedBuffer is 59.
+Reader 3 on iteration 159. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 0 on iteration 156. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 177. sharedBuffer is 59.
+Reader 0 on iteration 157. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 178. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 179. sharedBuffer is 59.
+Reader 3 on iteration 160. sharedBuffer is 59.
+Reader 0 on iteration 158. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 180. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 4 on iteration 181. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 4 exited. 1 readers in buffer.
+Reader 0 on iteration 159. sharedBuffer is 59.
+Reader 3 on iteration 161. sharedBuffer is 59.
+Reader 1 on iteration 171. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 4 on iteration 182. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 0 on iteration 160. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 162. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 4 on iteration 183. sharedBuffer is 59.
+reader 4 exited. 1 readers in buffer.
+Reader 1 on iteration 172. sharedBuffer is 59.
+Reader 3 on iteration 163. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 161. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 162. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 4 on iteration 184. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 1 on iteration 173. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 164. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 4 on iteration 185. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+reader 4 exited. 1 readers in buffer.
+Reader 3 on iteration 165. sharedBuffer is 59.
+Reader 4 on iteration 186. sharedBuffer is 59.
+Reader 0 on iteration 163. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+Reader 1 on iteration 174. sharedBuffer is 59.
+Reader 4 on iteration 187. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 164. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 188. sharedBuffer is 59.
+Reader 1 on iteration 175. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 166. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 0 on iteration 165. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 189. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 176. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 166. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 3 on iteration 167. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 0 on iteration 167. sharedBuffer is 59.
+Reader 4 on iteration 190. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 168. sharedBuffer is 59.
+Reader 0 on iteration 168. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 4 on iteration 191. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 4 on iteration 192. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 177. sharedBuffer is 59.
+Reader 0 on iteration 169. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 169. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+Reader 3 on iteration 170. sharedBuffer is 59.
+Reader 1 on iteration 178. sharedBuffer is 59.
+Reader 4 on iteration 193. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 171. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+Reader 3 on iteration 172. sharedBuffer is 59.
+Reader 1 on iteration 179. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 173. sharedBuffer is 59.
+Reader 0 on iteration 170. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 180. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 181. sharedBuffer is 59.
+Reader 3 on iteration 174. sharedBuffer is 59.
+Reader 0 on iteration 171. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+Reader 1 on iteration 182. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 4 exited. 2 readers in buffer.
+reader 3 exited. 1 readers in buffer.
+Reader 1 on iteration 183. sharedBuffer is 59.
+Reader 3 on iteration 175. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 172. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 173. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 4 on iteration 194. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 3 on iteration 176. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 1 on iteration 184. sharedBuffer is 59.
+Reader 4 on iteration 195. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 3 on iteration 177. sharedBuffer is 59.
+reader 3 exited. 3 readers in buffer.
+Reader 0 on iteration 174. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 178. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+reader 4 exited. 1 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+Reader 3 on iteration 179. sharedBuffer is 59.
+Reader 4 on iteration 196. sharedBuffer is 59.
+Reader 1 on iteration 185. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 180. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 0 on iteration 175. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+Reader 3 on iteration 181. sharedBuffer is 59.
+reader 1 exited. 3 readers in buffer.
+reader 0 exited. 2 readers in buffer.
+reader 3 exited. 1 readers in buffer.
+Reader 4 on iteration 197. sharedBuffer is 59.
+Reader 0 on iteration 176. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 3 on iteration 182. sharedBuffer is 59.
+Reader 0 on iteration 177. sharedBuffer is 59.
+reader 4 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 186. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+Reader 1 on iteration 187. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 178. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 0 on iteration 179. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+reader 1 exited. 3 readers in buffer.
+Reader 0 on iteration 180. sharedBuffer is 59.
+Reader 4 on iteration 198. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+Reader 3 on iteration 183. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 188. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+Reader 3 on iteration 184. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
+Reader 4 on iteration 199. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 189. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+Reader 3 on iteration 185. sharedBuffer is 59.
+Reader 0 on iteration 181. sharedBuffer is 59.
+reader 0 exited. 3 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 190. sharedBuffer is 59.
+reader 1 exited. 1 readers in buffer.
+Reader 0 on iteration 182. sharedBuffer is 59.
+reader 4 exited. 2 readers in buffer.
 READER 4 DONE.
-writer on iteration 40. sharedBuffer is 41.
-writer on iteration 41. sharedBuffer is 42.
-writer on iteration 42. sharedBuffer is 43.
-writer on iteration 43. sharedBuffer is 44.
-writer on iteration 44. sharedBuffer is 45.
-writer on iteration 45. sharedBuffer is 46.
-writer on iteration 46. sharedBuffer is 47.
-writer on iteration 47. sharedBuffer is 48.
-writer on iteration 48. sharedBuffer is 49.
-writer on iteration 49. sharedBuffer is 50.
-writer on iteration 50. sharedBuffer is 51.
-writer on iteration 51. sharedBuffer is 52.
-writer on iteration 52. sharedBuffer is 53.
-writer on iteration 53. sharedBuffer is 54.
-writer on iteration 54. sharedBuffer is 55.
-writer on iteration 55. sharedBuffer is 56.
-writer on iteration 56. sharedBuffer is 57.
-writer on iteration 57. sharedBuffer is 58.
-writer on iteration 58. sharedBuffer is 59.
-writer on iteration 59. sharedBuffer is 60.
-writer on iteration 60. sharedBuffer is 61.
-writer on iteration 61. sharedBuffer is 62.
-writer on iteration 62. sharedBuffer is 63.
-writer on iteration 63. sharedBuffer is 64.
-writer on iteration 64. sharedBuffer is 65.
-writer on iteration 65. sharedBuffer is 66.
-writer on iteration 66. sharedBuffer is 67.
-writer on iteration 67. sharedBuffer is 68.
-writer on iteration 68. sharedBuffer is 69.
-writer on iteration 69. sharedBuffer is 70.
-writer on iteration 70. sharedBuffer is 71.
-writer on iteration 71. sharedBuffer is 72.
-writer on iteration 72. sharedBuffer is 73.
-writer on iteration 73. sharedBuffer is 74.
-writer on iteration 74. sharedBuffer is 75.
-writer on iteration 75. sharedBuffer is 76.
-writer on iteration 76. sharedBuffer is 77.
-writer on iteration 77. sharedBuffer is 78.
-writer on iteration 78. sharedBuffer is 79.
-writer on iteration 79. sharedBuffer is 80.
-writer on iteration 80. sharedBuffer is 81.
-writer on iteration 81. sharedBuffer is 82.
-writer on iteration 82. sharedBuffer is 83.
-writer on iteration 83. sharedBuffer is 84.
-writer on iteration 84. sharedBuffer is 85.
-writer on iteration 85. sharedBuffer is 86.
-writer on iteration 86. sharedBuffer is 87.
-writer on iteration 87. sharedBuffer is 88.
-writer on iteration 88. sharedBuffer is 89.
-writer on iteration 89. sharedBuffer is 90.
-writer on iteration 90. sharedBuffer is 91.
-writer on iteration 91. sharedBuffer is 92.
-writer on iteration 92. sharedBuffer is 93.
-writer on iteration 93. sharedBuffer is 94.
-writer on iteration 94. sharedBuffer is 95.
-writer on iteration 95. sharedBuffer is 96.
-writer on iteration 96. sharedBuffer is 97.
-writer on iteration 97. sharedBuffer is 98.
-writer on iteration 98. sharedBuffer is 99.
-writer on iteration 99. sharedBuffer is 100.
-writer on iteration 100. sharedBuffer is 101.
-writer on iteration 101. sharedBuffer is 102.
-writer on iteration 102. sharedBuffer is 103.
-writer on iteration 103. sharedBuffer is 104.
-writer on iteration 104. sharedBuffer is 105.
-writer on iteration 105. sharedBuffer is 106.
-writer on iteration 106. sharedBuffer is 107.
-writer on iteration 107. sharedBuffer is 108.
-writer on iteration 108. sharedBuffer is 109.
-writer on iteration 109. sharedBuffer is 110.
-writer on iteration 110. sharedBuffer is 111.
-writer on iteration 111. sharedBuffer is 112.
-writer on iteration 112. sharedBuffer is 113.
-writer on iteration 113. sharedBuffer is 114.
-writer on iteration 114. sharedBuffer is 115.
-writer on iteration 115. sharedBuffer is 116.
-writer on iteration 116. sharedBuffer is 117.
-writer on iteration 117. sharedBuffer is 118.
-writer on iteration 118. sharedBuffer is 119.
-writer on iteration 119. sharedBuffer is 120.
-writer on iteration 120. sharedBuffer is 121.
-writer on iteration 121. sharedBuffer is 122.
-writer on iteration 122. sharedBuffer is 123.
-writer on iteration 123. sharedBuffer is 124.
-writer on iteration 124. sharedBuffer is 125.
-writer on iteration 125. sharedBuffer is 126.
-writer on iteration 126. sharedBuffer is 127.
-writer on iteration 127. sharedBuffer is 128.
-writer on iteration 128. sharedBuffer is 129.
-writer on iteration 129. sharedBuffer is 130.
-writer on iteration 130. sharedBuffer is 131.
-writer on iteration 131. sharedBuffer is 132.
-writer on iteration 132. sharedBuffer is 133.
-writer on iteration 133. sharedBuffer is 134.
-writer on iteration 134. sharedBuffer is 135.
-writer on iteration 135. sharedBuffer is 136.
-writer on iteration 136. sharedBuffer is 137.
-writer on iteration 137. sharedBuffer is 138.
-writer on iteration 138. sharedBuffer is 139.
-writer on iteration 139. sharedBuffer is 140.
-writer on iteration 140. sharedBuffer is 141.
-writer on iteration 141. sharedBuffer is 142.
-writer on iteration 142. sharedBuffer is 143.
-writer on iteration 143. sharedBuffer is 144.
-writer on iteration 144. sharedBuffer is 145.
-writer on iteration 145. sharedBuffer is 146.
-writer on iteration 146. sharedBuffer is 147.
-writer on iteration 147. sharedBuffer is 148.
-writer on iteration 148. sharedBuffer is 149.
-writer on iteration 149. sharedBuffer is 150.
-writer on iteration 150. sharedBuffer is 151.
-writer on iteration 151. sharedBuffer is 152.
-writer on iteration 152. sharedBuffer is 153.
-writer on iteration 153. sharedBuffer is 154.
-writer on iteration 154. sharedBuffer is 155.
-writer on iteration 155. sharedBuffer is 156.
-writer on iteration 156. sharedBuffer is 157.
-writer on iteration 157. sharedBuffer is 158.
-writer on iteration 158. sharedBuffer is 159.
-writer on iteration 159. sharedBuffer is 160.
-writer on iteration 160. sharedBuffer is 161.
-writer on iteration 161. sharedBuffer is 162.
-writer on iteration 162. sharedBuffer is 163.
-writer on iteration 163. sharedBuffer is 164.
-writer on iteration 164. sharedBuffer is 165.
-writer on iteration 165. sharedBuffer is 166.
-writer on iteration 166. sharedBuffer is 167.
-writer on iteration 167. sharedBuffer is 168.
-writer on iteration 168. sharedBuffer is 169.
-writer on iteration 169. sharedBuffer is 170.
-writer on iteration 170. sharedBuffer is 171.
-writer on iteration 171. sharedBuffer is 172.
-writer on iteration 172. sharedBuffer is 173.
-writer on iteration 173. sharedBuffer is 174.
-writer on iteration 174. sharedBuffer is 175.
-writer on iteration 175. sharedBuffer is 176.
-writer on iteration 176. sharedBuffer is 177.
-writer on iteration 177. sharedBuffer is 178.
-writer on iteration 178. sharedBuffer is 179.
-writer on iteration 179. sharedBuffer is 180.
-writer on iteration 180. sharedBuffer is 181.
-writer on iteration 181. sharedBuffer is 182.
-writer on iteration 182. sharedBuffer is 183.
-writer on iteration 183. sharedBuffer is 184.
-writer on iteration 184. sharedBuffer is 185.
-writer on iteration 185. sharedBuffer is 186.
-writer on iteration 186. sharedBuffer is 187.
-writer on iteration 187. sharedBuffer is 188.
-writer on iteration 188. sharedBuffer is 189.
-writer on iteration 189. sharedBuffer is 190.
-writer on iteration 190. sharedBuffer is 191.
-writer on iteration 191. sharedBuffer is 192.
-writer on iteration 192. sharedBuffer is 193.
-writer on iteration 193. sharedBuffer is 194.
-writer on iteration 194. sharedBuffer is 195.
-writer on iteration 195. sharedBuffer is 196.
-writer on iteration 196. sharedBuffer is 197.
-writer on iteration 197. sharedBuffer is 198.
-writer on iteration 198. sharedBuffer is 199.
-writer on iteration 199. sharedBuffer is 200.
-writer_join.
-reader 0 join.
-reader 1 join.
-reader 2 join.
-reader 3 join.
-reader 4 join.
+Reader 1 on iteration 191. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+Reader 0 on iteration 183. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 3 on iteration 186. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 1 on iteration 192. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 0 on iteration 184. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 187. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 188. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 193. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 3 on iteration 189. sharedBuffer is 59.
+Reader 1 on iteration 194. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 190. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 191. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 185. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+reader 1 exited. 1 readers in buffer.
+reader 3 exited. 0 readers in buffer.
+Reader 0 on iteration 186. sharedBuffer is 59.
+Reader 3 on iteration 192. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+Reader 0 on iteration 187. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+Reader 0 on iteration 188. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 1 on iteration 195. sharedBuffer is 59.
+Reader 0 on iteration 189. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+Reader 3 on iteration 193. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+reader 0 exited. 1 readers in buffer.
+Reader 1 on iteration 196. sharedBuffer is 59.
+reader 3 exited. 2 readers in buffer.
+reader 1 exited. 2 readers in buffer.
+Reader 0 on iteration 190. sharedBuffer is 59.
+Reader 1 on iteration 197. sharedBuffer is 59.
+Reader 3 on iteration 194. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 191. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 192. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 193. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+reader 3 exited. 2 readers in buffer.
+Reader 1 on iteration 198. sharedBuffer is 59.
+Reader 3 on iteration 195. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 194. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 195. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+reader 3 exited. 1 readers in buffer.
+Reader 1 on iteration 199. sharedBuffer is 59.
+reader 0 exited. 2 readers in buffer.
+Reader 0 on iteration 196. sharedBuffer is 59.
+reader 1 exited. 2 readers in buffer.
+Reader 3 on iteration 196. sharedBuffer is 59.
+reader 3 exited. 1 readers in buffer.
+READER 1 DONE.
+Reader 3 on iteration 197. sharedBuffer is 59.
+reader 3 exited. 1 readers in buffer.
+Reader 3 on iteration 198. sharedBuffer is 59.
+reader 3 exited. 1 readers in buffer.
+Reader 3 on iteration 199. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+Reader 0 on iteration 197. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+Reader 0 on iteration 198. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+Reader 0 on iteration 199. sharedBuffer is 59.
+reader 0 exited. 1 readers in buffer.
+READER 0 DONE.
+reader 3 exited. 0 readers in buffer.
+READER 3 DONE.
+Writer on iteration 59. sharedBuffer is 60.
+Writer on iteration 60. sharedBuffer is 61.
+Writer on iteration 61. sharedBuffer is 62.
+Writer on iteration 62. sharedBuffer is 63.
+Writer on iteration 63. sharedBuffer is 64.
+Writer on iteration 64. sharedBuffer is 65.
+Writer on iteration 65. sharedBuffer is 66.
+Writer on iteration 66. sharedBuffer is 67.
+Writer on iteration 67. sharedBuffer is 68.
+Writer on iteration 68. sharedBuffer is 69.
+Writer on iteration 69. sharedBuffer is 70.
+Writer on iteration 70. sharedBuffer is 71.
+Writer on iteration 71. sharedBuffer is 72.
+Writer on iteration 72. sharedBuffer is 73.
+Writer on iteration 73. sharedBuffer is 74.
+Writer on iteration 74. sharedBuffer is 75.
+Writer on iteration 75. sharedBuffer is 76.
+Writer on iteration 76. sharedBuffer is 77.
+Writer on iteration 77. sharedBuffer is 78.
+Writer on iteration 78. sharedBuffer is 79.
+Writer on iteration 79. sharedBuffer is 80.
+Writer on iteration 80. sharedBuffer is 81.
+Writer on iteration 81. sharedBuffer is 82.
+Writer on iteration 82. sharedBuffer is 83.
+Writer on iteration 83. sharedBuffer is 84.
+Writer on iteration 84. sharedBuffer is 85.
+Writer on iteration 85. sharedBuffer is 86.
+Writer on iteration 86. sharedBuffer is 87.
+Writer on iteration 87. sharedBuffer is 88.
+Writer on iteration 88. sharedBuffer is 89.
+Writer on iteration 89. sharedBuffer is 90.
+Writer on iteration 90. sharedBuffer is 91.
+Writer on iteration 91. sharedBuffer is 92.
+Writer on iteration 92. sharedBuffer is 93.
+Writer on iteration 93. sharedBuffer is 94.
+Writer on iteration 94. sharedBuffer is 95.
+Writer on iteration 95. sharedBuffer is 96.
+Writer on iteration 96. sharedBuffer is 97.
+Writer on iteration 97. sharedBuffer is 98.
+Writer on iteration 98. sharedBuffer is 99.
+Writer on iteration 99. sharedBuffer is 100.
+Writer on iteration 100. sharedBuffer is 101.
+Writer on iteration 101. sharedBuffer is 102.
+Writer on iteration 102. sharedBuffer is 103.
+Writer on iteration 103. sharedBuffer is 104.
+Writer on iteration 104. sharedBuffer is 105.
+Writer on iteration 105. sharedBuffer is 106.
+Writer on iteration 106. sharedBuffer is 107.
+Writer on iteration 107. sharedBuffer is 108.
+Writer on iteration 108. sharedBuffer is 109.
+Writer on iteration 109. sharedBuffer is 110.
+Writer on iteration 110. sharedBuffer is 111.
+Writer on iteration 111. sharedBuffer is 112.
+Writer on iteration 112. sharedBuffer is 113.
+Writer on iteration 113. sharedBuffer is 114.
+Writer on iteration 114. sharedBuffer is 115.
+Writer on iteration 115. sharedBuffer is 116.
+Writer on iteration 116. sharedBuffer is 117.
+Writer on iteration 117. sharedBuffer is 118.
+Writer on iteration 118. sharedBuffer is 119.
+Writer on iteration 119. sharedBuffer is 120.
+Writer on iteration 120. sharedBuffer is 121.
+Writer on iteration 121. sharedBuffer is 122.
+Writer on iteration 122. sharedBuffer is 123.
+Writer on iteration 123. sharedBuffer is 124.
+Writer on iteration 124. sharedBuffer is 125.
+Writer on iteration 125. sharedBuffer is 126.
+Writer on iteration 126. sharedBuffer is 127.
+Writer on iteration 127. sharedBuffer is 128.
+Writer on iteration 128. sharedBuffer is 129.
+Writer on iteration 129. sharedBuffer is 130.
+Writer on iteration 130. sharedBuffer is 131.
+Writer on iteration 131. sharedBuffer is 132.
+Writer on iteration 132. sharedBuffer is 133.
+Writer on iteration 133. sharedBuffer is 134.
+Writer on iteration 134. sharedBuffer is 135.
+Writer on iteration 135. sharedBuffer is 136.
+Writer on iteration 136. sharedBuffer is 137.
+Writer on iteration 137. sharedBuffer is 138.
+Writer on iteration 138. sharedBuffer is 139.
+Writer on iteration 139. sharedBuffer is 140.
+Writer on iteration 140. sharedBuffer is 141.
+Writer on iteration 141. sharedBuffer is 142.
+Writer on iteration 142. sharedBuffer is 143.
+Writer on iteration 143. sharedBuffer is 144.
+Writer on iteration 144. sharedBuffer is 145.
+Writer on iteration 145. sharedBuffer is 146.
+Writer on iteration 146. sharedBuffer is 147.
+Writer on iteration 147. sharedBuffer is 148.
+Writer on iteration 148. sharedBuffer is 149.
+Writer on iteration 149. sharedBuffer is 150.
+Writer on iteration 150. sharedBuffer is 151.
+Writer on iteration 151. sharedBuffer is 152.
+Writer on iteration 152. sharedBuffer is 153.
+Writer on iteration 153. sharedBuffer is 154.
+Writer on iteration 154. sharedBuffer is 155.
+Writer on iteration 155. sharedBuffer is 156.
+Writer on iteration 156. sharedBuffer is 157.
+Writer on iteration 157. sharedBuffer is 158.
+Writer on iteration 158. sharedBuffer is 159.
+Writer on iteration 159. sharedBuffer is 160.
+Writer on iteration 160. sharedBuffer is 161.
+Writer on iteration 161. sharedBuffer is 162.
+Writer on iteration 162. sharedBuffer is 163.
+Writer on iteration 163. sharedBuffer is 164.
+Writer on iteration 164. sharedBuffer is 165.
+Writer on iteration 165. sharedBuffer is 166.
+Writer on iteration 166. sharedBuffer is 167.
+Writer on iteration 167. sharedBuffer is 168.
+Writer on iteration 168. sharedBuffer is 169.
+Writer on iteration 169. sharedBuffer is 170.
+Writer on iteration 170. sharedBuffer is 171.
+Writer on iteration 171. sharedBuffer is 172.
+Writer on iteration 172. sharedBuffer is 173.
+Writer on iteration 173. sharedBuffer is 174.
+Writer on iteration 174. sharedBuffer is 175.
+Writer on iteration 175. sharedBuffer is 176.
+Writer on iteration 176. sharedBuffer is 177.
+Writer on iteration 177. sharedBuffer is 178.
+Writer on iteration 178. sharedBuffer is 179.
+Writer on iteration 179. sharedBuffer is 180.
+Writer on iteration 180. sharedBuffer is 181.
+Writer on iteration 181. sharedBuffer is 182.
+Writer on iteration 182. sharedBuffer is 183.
+Writer on iteration 183. sharedBuffer is 184.
+Writer on iteration 184. sharedBuffer is 185.
+Writer on iteration 185. sharedBuffer is 186.
+Writer on iteration 186. sharedBuffer is 187.
+Writer on iteration 187. sharedBuffer is 188.
+Writer on iteration 188. sharedBuffer is 189.
+Writer on iteration 189. sharedBuffer is 190.
+Writer on iteration 190. sharedBuffer is 191.
+Writer on iteration 191. sharedBuffer is 192.
+Writer on iteration 192. sharedBuffer is 193.
+Writer on iteration 193. sharedBuffer is 194.
+Writer on iteration 194. sharedBuffer is 195.
+Writer on iteration 195. sharedBuffer is 196.
+Writer on iteration 196. sharedBuffer is 197.
+Writer on iteration 197. sharedBuffer is 198.
+Writer on iteration 198. sharedBuffer is 199.
+Writer on iteration 199. sharedBuffer is 200.
+Writer exited.
+Reader 0 exited.
+Reader 1 exited.
+Reader 2 exited.
+Reader 3 exited.
+Reader 4 exited.

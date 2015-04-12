@@ -33,33 +33,26 @@ int down(sem_t* thisMutex){
 void* readerCode(void* reader){
     int i;
     int r = *((int *) reader);
-    printf("reader %d created.\n", r);
+    printf("READER %d CREATED.\n", r);
     for (i = 0; i < NUM_READS; i++){
-//	down(&readerCountMutex);
-	sem_wait(&readerCountMutex);
+	down(&readerCountMutex);
 	readerCount = readerCount + 1;
 
 	if(readerCount == 1){
-//	    down(&bufferMutex);
-	    sem_wait(&bufferMutex);
+	    down(&bufferMutex);
 	}//if
 
-//	up(&readerCountMutex);
-	sem_post(&readerCountMutex);
-	printf("reader %d on iteration %d. sharedBuffer is %d.\n", r, i, sharedBuffer);
+	up(&readerCountMutex);
+	printf("Reader %d on iteration %d. sharedBuffer is %d.\n", r, i, sharedBuffer);
 
-//	down(&readerCountMutex);
-	sem_wait(&readerCountMutex);
+	down(&readerCountMutex);
 	readerCount = readerCount - 1;
-//	printf(" readerCount is %d.\n", readerCount);
-
+	printf("reader %d exited. %d readers in buffer.\n", r, readerCount);
 	if(readerCount == 0){
-//	    up(&bufferMutex);
-	    sem_post(&bufferMutex);
+	    up(&bufferMutex);
 	}
 
-//	up(&readerCountMutex);
-	sem_post(&readerCountMutex);
+	up(&readerCountMutex);
     }//for
     printf("READER %d DONE.\n", r);
     pthread_exit(0);
@@ -68,17 +61,16 @@ void* readerCode(void* reader){
 void* writerCode(void* writer){
     int i;
     for(i = 0; i < NUM_WRITES; i++){
-//	down(&bufferMutex);
-	sem_wait(&bufferMutex);
+	down(&bufferMutex);
 	sharedBuffer = sharedBuffer + 1;
-	printf("writer on iteration %d. sharedBuffer is %d.\n", i, sharedBuffer);
-//	up(&bufferMutex);
-	sem_post(&bufferMutex);
+	printf("Writer on iteration %d. sharedBuffer is %d.\n", i, sharedBuffer);
+	up(&bufferMutex);
     }//for
     pthread_exit(0);
 }
 
 int main(int argc, char** argv) {
+    //initialize variables
     int i;
     readerCount = 0;
     sharedBuffer = 0;
@@ -86,9 +78,9 @@ int main(int argc, char** argv) {
     sem_init(&bufferMutex, 0, 1);
 
     //create writer thread
-    pthread_t writerThread;
-    int *temp2 = (int *)malloc(sizeof(int *));
-    pthread_create(&writerThread, 0, writerCode, (void *) temp2);
+//    pthread_t writerThread;
+//    int *temp2 = (int *)malloc(sizeof(int *));
+//    pthread_create(&writerThread, 0, writerCode, (void *) temp2);
 
     //create reader threads
     pthread_t reads[NUM_OF_READERS];
@@ -98,15 +90,22 @@ int main(int argc, char** argv) {
 	pthread_create(&reads[i], 0, readerCode, (void *) temp);
     }
 
-    pthread_join(writerThread, 0);
-    printf("writer_join.\n");
+    //create writer thread
+    pthread_t writerThread;
+    int *temp2 = (int *)malloc(sizeof(int *));
+    pthread_create(&writerThread, 0, writerCode, (void *) temp2);
 
+    //terminate writer thread
+    pthread_join(writerThread, 0);
+    printf("Writer exited.\n");
+
+    //terminate reader threads
     for(i = 0; i < NUM_OF_READERS; i++){
 	pthread_join(reads[i], 0);
-	printf("reader %d join.\n", i);
+	printf("Reader %d exited.\n", i);
     }
 
-
+    //close semaphores
     sem_close(&readerCountMutex);
     sem_close(&bufferMutex);
 
