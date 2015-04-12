@@ -35,7 +35,7 @@ void* read(void* reader){
     int r = *((int *) reader);
     printf("reader %d created.\n", r);
     for (i = 0; i < NUM_READS; i++){
-	down(&readerCountMutex);
+	up(&readerCountMutex);
 	readerCount = readerCount + 1;
 
 	if(readerCount == 1){
@@ -43,17 +43,17 @@ void* read(void* reader){
 	}//if
 
 	up(&readerCountMutex);
-	printf("reader %d on iteration %d. sharedBuffer is %d.\n", r, i, sharedBuffer);
+	printf("reader %d on iteration %d. sharedBuffer is %d.", r, i, sharedBuffer);
 	down(&readerCountMutex);
 
 	readerCount = readerCount - 1;
-	printf("reader %d on iteration %d. readerCount is %d.\n", r, i, readerCount);
+	printf(" readerCount is %d.\n", readerCount);
 
 	if(readerCount == 0){
 	    up(&bufferMutex);
 	}
 
-	up(&readerCountMutex);
+	down(&readerCountMutex);
     }//for
 
     pthread_exit(0);
